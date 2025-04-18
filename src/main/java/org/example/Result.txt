@@ -1,0 +1,9305 @@
+C:\Users\ivodi\.jdks\openjdk-23.0.1\bin\java.exe "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2024.3.1.1\lib\idea_rt.jar=59376:C:\Program Files\JetBrains\IntelliJ IDEA 2024.3.1.1\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath C:\Users\ivodi\IdeaProjects\SortedArrays\target\classes org.example.ReducibleWordsFinder
+Reduction path for ASPIRATED:
+  -> ASPIRATED
+  -> SPIRATED
+  -> PIRATED
+  -> PRATED
+  -> RATED
+  -> RATE
+  -> ATE
+  -> AE
+  -> A
+
+Reduction path for ESCARPING:
+  -> ESCARPING
+  -> SCARPING
+  -> CARPING
+  -> CAPING
+  -> APING
+  -> PING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for SHIFTINGS:
+  -> SHIFTINGS
+  -> SIFTINGS
+  -> SITINGS
+  -> STINGS
+  -> TINGS
+  -> INGS
+  -> INS
+  -> IS
+  -> I
+
+Reduction path for CREWMATES:
+  -> CREWMATES
+  -> CREMATES
+  -> REMATES
+  -> REATES
+  -> RATES
+  -> ATES
+  -> ATS
+  -> AS
+  -> A
+
+Reduction path for BLOODYING:
+  -> BLOODYING
+  -> BOODYING
+  -> BODYING
+  -> BOYING
+  -> BOING
+  -> BING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for GRATINEES:
+  -> GRATINEES
+  -> GRATINEE
+  -> GRATINE
+  -> RATINE
+  -> RAINE
+  -> AINE
+  -> ANE
+  -> AE
+  -> A
+
+Reduction path for GRATINEED:
+  -> GRATINEED
+  -> GRATINEE
+  -> GRATINE
+  -> RATINE
+  -> RAINE
+  -> AINE
+  -> ANE
+  -> AE
+  -> A
+
+Reduction path for BLEACHERS:
+  -> BLEACHERS
+  -> LEACHERS
+  -> LEACHES
+  -> LACHES
+  -> ACHES
+  -> ACES
+  -> ACE
+  -> AE
+  -> A
+
+Reduction path for BOWELLING:
+  -> BOWELLING
+  -> BOWELING
+  -> BOWLING
+  -> OWLING
+  -> OWING
+  -> WING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for BLEACHING:
+  -> BLEACHING
+  -> LEACHING
+  -> LECHING
+  -> ECHING
+  -> CHING
+  -> HING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for LAMINATES:
+  -> LAMINATES
+  -> LAMINATE
+  -> LAMINAE
+  -> LAMIAE
+  -> LAMIA
+  -> AMIA
+  -> AIA
+  -> AA
+  -> A
+
+Reduction path for LAMINATED:
+  -> LAMINATED
+  -> LAMINATE
+  -> LAMINAE
+  -> LAMIAE
+  -> LAMIA
+  -> AMIA
+  -> AIA
+  -> AA
+  -> A
+
+Reduction path for CROWNINGS:
+  -> CROWNINGS
+  -> CROWINGS
+  -> ROWINGS
+  -> ROWING
+  -> OWING
+  -> WING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for BRAUNCHES:
+  -> BRAUNCHES
+  -> RAUNCHES
+  -> RANCHES
+  -> RACHES
+  -> ACHES
+  -> ACES
+  -> ACE
+  -> AE
+  -> A
+
+Reduction path for BRAUNCHED:
+  -> BRAUNCHED
+  -> RAUNCHED
+  -> RANCHED
+  -> RANCED
+  -> RACED
+  -> ACED
+  -> ACE
+  -> AE
+  -> A
+
+Reduction path for CHINCHING:
+  -> CHINCHING
+  -> CINCHING
+  -> INCHING
+  -> ICHING
+  -> CHING
+  -> HING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for SMIRTINGS:
+  -> SMIRTINGS
+  -> SMIRTING
+  -> SMITING
+  -> SITING
+  -> STING
+  -> TING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for SWISHIEST:
+  -> SWISHIEST
+  -> SWISHEST
+  -> SWISHES
+  -> WISHES
+  -> WISES
+  -> WISS
+  -> WIS
+  -> IS
+  -> I
+
+Reduction path for BLANKINGS:
+  -> BLANKINGS
+  -> BANKINGS
+  -> BAKINGS
+  -> BAKING
+  -> AKING
+  -> KING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for BLEATINGS:
+  -> BLEATINGS
+  -> BEATINGS
+  -> BEATING
+  -> BETING
+  -> BEING
+  -> BING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for PLAININGS:
+  -> PLAININGS
+  -> PLAINING
+  -> PAINING
+  -> PINING
+  -> PIING
+  -> PING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for SWARMINGS:
+  -> SWARMINGS
+  -> WARMINGS
+  -> WARMING
+  -> WARING
+  -> WRING
+  -> RING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for PRISSIEST:
+  -> PRISSIEST
+  -> PRISSIES
+  -> PRISSES
+  -> PISSES
+  -> PISES
+  -> PIES
+  -> PIS
+  -> IS
+  -> I
+
+Reduction path for TRAPESING:
+  -> TRAPESING
+  -> TRAPSING
+  -> TRAPING
+  -> RAPING
+  -> APING
+  -> PING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for STARTLERS:
+  -> STARTLERS
+  -> STARTERS
+  -> STATERS
+  -> TATERS
+  -> TATES
+  -> ATES
+  -> ATS
+  -> AS
+  -> A
+
+Reduction path for WITCHIEST:
+  -> WITCHIEST
+  -> WITHIEST
+  -> WITHIES
+  -> WITHES
+  -> WITES
+  -> WITS
+  -> ITS
+  -> IS
+  -> I
+
+Reduction path for TRAMPINGS:
+  -> TRAMPINGS
+  -> RAMPINGS
+  -> RAMPING
+  -> AMPING
+  -> APING
+  -> PING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for CABBALAHS:
+  -> CABBALAHS
+  -> CABBALAS
+  -> CABALAS
+  -> CABALS
+  -> CABAS
+  -> ABAS
+  -> BAS
+  -> AS
+  -> A
+
+Reduction path for SMITHYING:
+  -> SMITHYING
+  -> SMITHING
+  -> SITHING
+  -> SITING
+  -> STING
+  -> TING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for COACHINGS:
+  -> COACHINGS
+  -> COACHING
+  -> CACHING
+  -> ACHING
+  -> CHING
+  -> HING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for TIRELINGS:
+  -> TIRELINGS
+  -> TIRELING
+  -> TIRLING
+  -> TIRING
+  -> IRING
+  -> RING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for TRIPLITES:
+  -> TRIPLITES
+  -> TRIPLIES
+  -> TRIPLES
+  -> TRIPES
+  -> TRIES
+  -> TIES
+  -> TIS
+  -> IS
+  -> I
+
+Reduction path for WRECKINGS:
+  -> WRECKINGS
+  -> WRECKING
+  -> RECKING
+  -> REKING
+  -> EKING
+  -> KING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for TRICKSILY:
+  -> TRICKSILY
+  -> TRICKILY
+  -> TRICKLY
+  -> TICKLY
+  -> TICKY
+  -> TICK
+  -> TIK
+  -> TI
+  -> I
+
+Reduction path for FRICHTING:
+  -> FRICHTING
+  -> RICHTING
+  -> RICHING
+  -> ICHING
+  -> CHING
+  -> HING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for SPRAYINGS:
+  -> SPRAYINGS
+  -> SPRAYING
+  -> SPAYING
+  -> SPAING
+  -> SPANG
+  -> PANG
+  -> PAN
+  -> AN
+  -> A
+
+Reduction path for BLOOMINGS:
+  -> BLOOMINGS
+  -> BOOMINGS
+  -> BOOINGS
+  -> BOINGS
+  -> BINGS
+  -> INGS
+  -> INS
+  -> IS
+  -> I
+
+Reduction path for WITCHINGS:
+  -> WITCHINGS
+  -> ITCHINGS
+  -> ITCHING
+  -> ICHING
+  -> CHING
+  -> HING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for BRAWLINGS:
+  -> BRAWLINGS
+  -> BAWLINGS
+  -> BALINGS
+  -> BLINGS
+  -> LINGS
+  -> INGS
+  -> INS
+  -> IS
+  -> I
+
+Reduction path for UPLINKING:
+  -> UPLINKING
+  -> PLINKING
+  -> LINKING
+  -> LINING
+  -> LININ
+  -> LINN
+  -> INN
+  -> IN
+  -> I
+
+Reduction path for WHOPPINGS:
+  -> WHOPPINGS
+  -> HOPPINGS
+  -> HOPPING
+  -> HOPING
+  -> OPING
+  -> PING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for LAZURITES:
+  -> LAZURITES
+  -> AZURITES
+  -> AZURIES
+  -> AZURES
+  -> AURES
+  -> ARES
+  -> ARS
+  -> AS
+  -> A
+
+Reduction path for KVETCHING:
+  -> KVETCHING
+  -> KETCHING
+  -> ETCHING
+  -> ECHING
+  -> CHING
+  -> HING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for UNBEARDED:
+  -> UNBEARDED
+  -> UNBEARED
+  -> UNEARED
+  -> NEARED
+  -> EARED
+  -> ARED
+  -> ARD
+  -> AD
+  -> A
+
+Reduction path for STREAMERS:
+  -> STREAMERS
+  -> STEAMERS
+  -> TEAMERS
+  -> TAMERS
+  -> TAMES
+  -> AMES
+  -> AME
+  -> AE
+  -> A
+
+Reduction path for SCRAWPING:
+  -> SCRAWPING
+  -> SCRAPING
+  -> CRAPING
+  -> RAPING
+  -> APING
+  -> PING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for TROUTLING:
+  -> TROUTLING
+  -> TROUTING
+  -> TOUTING
+  -> TOTING
+  -> TOING
+  -> TING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for SPRITZERS:
+  -> SPRITZERS
+  -> SPRITZES
+  -> SPITZES
+  -> SPITES
+  -> SITES
+  -> SIES
+  -> SIS
+  -> IS
+  -> I
+
+Reduction path for TANGLIEST:
+  -> TANGLIEST
+  -> TANGIEST
+  -> TANGIES
+  -> TANGIS
+  -> TANGS
+  -> TAGS
+  -> AGS
+  -> AS
+  -> A
+
+Reduction path for PREPAVING:
+  -> PREPAVING
+  -> REPAVING
+  -> REAVING
+  -> RAVING
+  -> RAVIN
+  -> RAIN
+  -> AIN
+  -> IN
+  -> I
+
+Reduction path for ORANGIEST:
+  -> ORANGIEST
+  -> ORANGEST
+  -> ORANGES
+  -> RANGES
+  -> RAGES
+  -> AGES
+  -> AGS
+  -> AS
+  -> A
+
+Reduction path for STRINGIER:
+  -> STRINGIER
+  -> STINGIER
+  -> STINGER
+  -> SINGER
+  -> SINGE
+  -> SINE
+  -> SIN
+  -> IN
+  -> I
+
+Reduction path for CRUISIEST:
+  -> CRUISIEST
+  -> CRUISIES
+  -> CRUISES
+  -> CRISES
+  -> CRIES
+  -> CRIS
+  -> CIS
+  -> IS
+  -> I
+
+Reduction path for BRASSIERE:
+  -> BRASSIERE
+  -> BRASSIER
+  -> BASSIER
+  -> BASSER
+  -> BASER
+  -> BASE
+  -> BAE
+  -> AE
+  -> A
+
+Reduction path for STREAMBED:
+  -> STREAMBED
+  -> STREAMED
+  -> STEAMED
+  -> TEAMED
+  -> TAMED
+  -> TAED
+  -> TAD
+  -> AD
+  -> A
+
+Reduction path for REPLANTED:
+  -> REPLANTED
+  -> REPLATED
+  -> RELATED
+  -> ELATED
+  -> LATED
+  -> LATE
+  -> ATE
+  -> AE
+  -> A
+
+Reduction path for BRASSIEST:
+  -> BRASSIEST
+  -> BASSIEST
+  -> BASSEST
+  -> BASEST
+  -> BASES
+  -> BAES
+  -> BAS
+  -> AS
+  -> A
+
+Reduction path for STRIPPERS:
+  -> STRIPPERS
+  -> STRIPERS
+  -> STRIPES
+  -> TRIPES
+  -> TRIES
+  -> TIES
+  -> TIS
+  -> IS
+  -> I
+
+Reduction path for STARTLING:
+  -> STARTLING
+  -> STARLING
+  -> STARING
+  -> SARING
+  -> SARIN
+  -> SAIN
+  -> AIN
+  -> IN
+  -> I
+
+Reduction path for STARTLIER:
+  -> STARTLIER
+  -> STARTLER
+  -> STARTER
+  -> TARTER
+  -> TATER
+  -> TATE
+  -> ATE
+  -> AE
+  -> A
+
+Reduction path for BEARDIEST:
+  -> BEARDIEST
+  -> BARDIEST
+  -> BARDIES
+  -> BARDES
+  -> BARES
+  -> ARES
+  -> ARS
+  -> AS
+  -> A
+
+Reduction path for SILENCERS:
+  -> SILENCERS
+  -> SILENCES
+  -> SILENES
+  -> SILENS
+  -> SIENS
+  -> SINS
+  -> INS
+  -> IS
+  -> I
+
+Reduction path for STREAMIER:
+  -> STREAMIER
+  -> STEAMIER
+  -> SEAMIER
+  -> SEAMER
+  -> SEAME
+  -> SAME
+  -> AME
+  -> AE
+  -> A
+
+Reduction path for COACHIEST:
+  -> COACHIEST
+  -> COACHIES
+  -> COACHES
+  -> CACHES
+  -> ACHES
+  -> ACES
+  -> ACE
+  -> AE
+  -> A
+
+Reduction path for STREAMING:
+  -> STREAMING
+  -> STEAMING
+  -> TEAMING
+  -> TAMING
+  -> TAMIN
+  -> AMIN
+  -> AIN
+  -> IN
+  -> I
+
+Reduction path for FRACTURES:
+  -> FRACTURES
+  -> FRACTURS
+  -> FRACTUS
+  -> FRACTS
+  -> FACTS
+  -> ACTS
+  -> ATS
+  -> AS
+  -> A
+
+Reduction path for RECAMIERS:
+  -> RECAMIERS
+  -> RECAMIER
+  -> REAMIER
+  -> REAMER
+  -> REAME
+  -> REAM
+  -> RAM
+  -> AM
+  -> A
+
+Reduction path for RAMBLINGS:
+  -> RAMBLINGS
+  -> AMBLINGS
+  -> ABLINGS
+  -> BLINGS
+  -> LINGS
+  -> INGS
+  -> INS
+  -> IS
+  -> I
+
+Reduction path for SHAWLINGS:
+  -> SHAWLINGS
+  -> SHAWLING
+  -> SHAWING
+  -> HAWING
+  -> AWING
+  -> WING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for PLINKIEST:
+  -> PLINKIEST
+  -> PINKIEST
+  -> PINIEST
+  -> PINIES
+  -> PINES
+  -> PIES
+  -> PIS
+  -> IS
+  -> I
+
+Reduction path for SPANKINGS:
+  -> SPANKINGS
+  -> SPANKING
+  -> SPANING
+  -> SPAING
+  -> SPANG
+  -> PANG
+  -> PAN
+  -> AN
+  -> A
+
+Reduction path for PERCHINGS:
+  -> PERCHINGS
+  -> PERCHING
+  -> PECHING
+  -> ECHING
+  -> CHING
+  -> HING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for CLATCHING:
+  -> CLATCHING
+  -> CATCHING
+  -> CACHING
+  -> ACHING
+  -> CHING
+  -> HING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for SANDIVERS:
+  -> SANDIVERS
+  -> SANDIVER
+  -> SANDIER
+  -> SANDER
+  -> SANER
+  -> SANE
+  -> ANE
+  -> AE
+  -> A
+
+Reduction path for CAPELLETS:
+  -> CAPELLETS
+  -> CAPELETS
+  -> CAPLETS
+  -> CAPLES
+  -> CAPES
+  -> APES
+  -> APE
+  -> AE
+  -> A
+
+Reduction path for SPLITTING:
+  -> SPLITTING
+  -> SLITTING
+  -> SITTING
+  -> SITING
+  -> STING
+  -> TING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for PLINKINGS:
+  -> PLINKINGS
+  -> PINKINGS
+  -> PIKINGS
+  -> PIKING
+  -> PIING
+  -> PING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for ABROOKING:
+  -> ABROOKING
+  -> BROOKING
+  -> BOOKING
+  -> BOKING
+  -> BOING
+  -> BING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for LEGERINGS:
+  -> LEGERINGS
+  -> LEERINGS
+  -> LEERING
+  -> LERING
+  -> ERING
+  -> RING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for SPLITTERS:
+  -> SPLITTERS
+  -> SLITTERS
+  -> LITTERS
+  -> LITERS
+  -> LIERS
+  -> LIES
+  -> LIS
+  -> IS
+  -> I
+
+Reduction path for GAMBLINGS:
+  -> GAMBLINGS
+  -> AMBLINGS
+  -> ABLINGS
+  -> BLINGS
+  -> LINGS
+  -> INGS
+  -> INS
+  -> IS
+  -> I
+
+Reduction path for GLAMPINGS:
+  -> GLAMPINGS
+  -> LAMPINGS
+  -> LAMPING
+  -> AMPING
+  -> APING
+  -> PING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for SITTELLAS:
+  -> SITTELLAS
+  -> SITELLAS
+  -> STELLAS
+  -> STELLA
+  -> STELA
+  -> TELA
+  -> TEA
+  -> EA
+  -> A
+
+Reduction path for SHARPINGS:
+  -> SHARPINGS
+  -> SHARINGS
+  -> SHARING
+  -> SARING
+  -> SARIN
+  -> SAIN
+  -> AIN
+  -> IN
+  -> I
+
+Reduction path for STABLINGS:
+  -> STABLINGS
+  -> TABLINGS
+  -> ABLINGS
+  -> BLINGS
+  -> LINGS
+  -> INGS
+  -> INS
+  -> IS
+  -> I
+
+Reduction path for ASTONYING:
+  -> ASTONYING
+  -> STONYING
+  -> STONING
+  -> TONING
+  -> TOING
+  -> TING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for MADRASAHS:
+  -> MADRASAHS
+  -> MADRASAS
+  -> MADRASA
+  -> MADRAS
+  -> MARAS
+  -> MAAS
+  -> AAS
+  -> AS
+  -> A
+
+Reduction path for BREAKINGS:
+  -> BREAKINGS
+  -> BRAKINGS
+  -> RAKINGS
+  -> RAKING
+  -> AKING
+  -> KING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for CHAUNTERS:
+  -> CHAUNTERS
+  -> HAUNTERS
+  -> HAUNTER
+  -> HAUTER
+  -> HATER
+  -> HATE
+  -> ATE
+  -> AE
+  -> A
+
+Reduction path for ANORETICS:
+  -> ANORETICS
+  -> ANORETIC
+  -> ANOETIC
+  -> ANETIC
+  -> ANTIC
+  -> ANTI
+  -> ANI
+  -> AI
+  -> I
+
+Reduction path for SNATCHERS:
+  -> SNATCHERS
+  -> SNATCHES
+  -> NATCHES
+  -> NACHES
+  -> ACHES
+  -> ACES
+  -> ACE
+  -> AE
+  -> A
+
+Reduction path for RHAPHIDES:
+  -> RHAPHIDES
+  -> RAPHIDES
+  -> APHIDES
+  -> APHIDS
+  -> APHIS
+  -> PHIS
+  -> HIS
+  -> IS
+  -> I
+
+Reduction path for STRAPPING:
+  -> STRAPPING
+  -> TRAPPING
+  -> RAPPING
+  -> RAPING
+  -> APING
+  -> PING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for STRAPPIER:
+  -> STRAPPIER
+  -> TRAPPIER
+  -> TRAPPER
+  -> RAPPER
+  -> RAPER
+  -> APER
+  -> APE
+  -> AE
+  -> A
+
+Reduction path for SHOWERING:
+  -> SHOWERING
+  -> SHOWRING
+  -> SHOWING
+  -> SOWING
+  -> OWING
+  -> WING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for TRAMPLERS:
+  -> TRAMPLERS
+  -> TRAMPERS
+  -> RAMPERS
+  -> RAPERS
+  -> APERS
+  -> APES
+  -> APE
+  -> AE
+  -> A
+
+Reduction path for TRAIPSING:
+  -> TRAIPSING
+  -> TRAPSING
+  -> TRAPING
+  -> RAPING
+  -> APING
+  -> PING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for TRACKINGS:
+  -> TRACKINGS
+  -> RACKINGS
+  -> RAKINGS
+  -> RAKING
+  -> AKING
+  -> KING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for SIRONISES:
+  -> SIRONISES
+  -> IRONISES
+  -> IRONIES
+  -> IRONES
+  -> IRONS
+  -> IONS
+  -> INS
+  -> IS
+  -> I
+
+Reduction path for BANDANNAS:
+  -> BANDANNAS
+  -> BANDANAS
+  -> BANANAS
+  -> ANANAS
+  -> NANAS
+  -> ANAS
+  -> NAS
+  -> AS
+  -> A
+
+Reduction path for TRAMPLING:
+  -> TRAMPLING
+  -> TRAMPING
+  -> RAMPING
+  -> AMPING
+  -> APING
+  -> PING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for STOOKINGS:
+  -> STOOKINGS
+  -> STOOKING
+  -> STOKING
+  -> TOKING
+  -> TOING
+  -> TING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for WASHINESS:
+  -> WASHINESS
+  -> ASHINESS
+  -> SHINESS
+  -> SHINES
+  -> SINES
+  -> SIES
+  -> SIS
+  -> IS
+  -> I
+
+Reduction path for TROLLYING:
+  -> TROLLYING
+  -> TROLLING
+  -> TOLLING
+  -> TOLING
+  -> TOING
+  -> TING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for SPLATTING:
+  -> SPLATTING
+  -> SLATTING
+  -> SLATING
+  -> SATING
+  -> STING
+  -> TING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for FROWSTING:
+  -> FROWSTING
+  -> FROSTING
+  -> ROSTING
+  -> ROSING
+  -> ROSIN
+  -> ROIN
+  -> RIN
+  -> IN
+  -> I
+
+Reduction path for SPIDERING:
+  -> SPIDERING
+  -> SPIERING
+  -> SPIRING
+  -> SIRING
+  -> IRING
+  -> RING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for SPLATTERS:
+  -> SPLATTERS
+  -> PLATTERS
+  -> LATTERS
+  -> LATTES
+  -> LATTE
+  -> LATE
+  -> ATE
+  -> AE
+  -> A
+
+Reduction path for PLANTAGES:
+  -> PLANTAGES
+  -> PLANTAGE
+  -> PLANTAE
+  -> PLANTA
+  -> PLANT
+  -> LANT
+  -> ANT
+  -> AT
+  -> A
+
+Reduction path for REFLOATED:
+  -> REFLOATED
+  -> REFLATED
+  -> RELATED
+  -> ELATED
+  -> LATED
+  -> LATE
+  -> ATE
+  -> AE
+  -> A
+
+Reduction path for GRANDEURS:
+  -> GRANDEURS
+  -> GRANDEUR
+  -> GRANDER
+  -> GRADER
+  -> GRADE
+  -> RADE
+  -> RAD
+  -> AD
+  -> A
+
+Reduction path for SHINGLIER:
+  -> SHINGLIER
+  -> SHINGLER
+  -> SHINGLE
+  -> SINGLE
+  -> SINGE
+  -> SINE
+  -> SIN
+  -> IN
+  -> I
+
+Reduction path for SHINGLERS:
+  -> SHINGLERS
+  -> SHINGLES
+  -> SINGLES
+  -> SINGES
+  -> SINES
+  -> SIES
+  -> SIS
+  -> IS
+  -> I
+
+Reduction path for SCRABBLED:
+  -> SCRABBLED
+  -> SCABBLED
+  -> SCABBED
+  -> CABBED
+  -> ABBED
+  -> ABBE
+  -> ABB
+  -> AB
+  -> A
+
+Reduction path for ROASTINGS:
+  -> ROASTINGS
+  -> ROASTING
+  -> ROSTING
+  -> ROSING
+  -> ROSIN
+  -> ROIN
+  -> RIN
+  -> IN
+  -> I
+
+Reduction path for SPARLINGS:
+  -> SPARLINGS
+  -> SPARLING
+  -> PARLING
+  -> PALING
+  -> PLING
+  -> LING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for MADRASSAS:
+  -> MADRASSAS
+  -> MADRASAS
+  -> MADRASA
+  -> MADRAS
+  -> MARAS
+  -> MAAS
+  -> AAS
+  -> AS
+  -> A
+
+Reduction path for MADRASSAH:
+  -> MADRASSAH
+  -> MADRASAH
+  -> MADRASA
+  -> MADRAS
+  -> MARAS
+  -> MAAS
+  -> AAS
+  -> AS
+  -> A
+
+Reduction path for PITCHINGS:
+  -> PITCHINGS
+  -> ITCHINGS
+  -> ITCHING
+  -> ICHING
+  -> CHING
+  -> HING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for PICKETERS:
+  -> PICKETERS
+  -> PICKEERS
+  -> PICKERS
+  -> PIKERS
+  -> PIERS
+  -> PIRS
+  -> PIS
+  -> IS
+  -> I
+
+Reduction path for FORESTAYS:
+  -> FORESTAYS
+  -> FORESAYS
+  -> FORSAYS
+  -> FORAYS
+  -> FRAYS
+  -> RAYS
+  -> AYS
+  -> AS
+  -> A
+
+Reduction path for BRAINIEST:
+  -> BRAINIEST
+  -> BRINIEST
+  -> BRINIES
+  -> BRINES
+  -> RINES
+  -> RINS
+  -> INS
+  -> IS
+  -> I
+
+Reduction path for ESTRAYING:
+  -> ESTRAYING
+  -> STRAYING
+  -> STAYING
+  -> STYING
+  -> TYING
+  -> TING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for CLOWNINGS:
+  -> CLOWNINGS
+  -> CLOWNING
+  -> LOWNING
+  -> OWNING
+  -> OWING
+  -> WING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for SWEATINGS:
+  -> SWEATINGS
+  -> SEATINGS
+  -> SEATING
+  -> SATING
+  -> STING
+  -> TING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for SIRONIZES:
+  -> SIRONIZES
+  -> IRONIZES
+  -> IRONIES
+  -> IRONES
+  -> IRONS
+  -> IONS
+  -> INS
+  -> IS
+  -> I
+
+Reduction path for SCOURSING:
+  -> SCOURSING
+  -> SCOURING
+  -> SOURING
+  -> SURING
+  -> SUING
+  -> SING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for CLEARINGS:
+  -> CLEARINGS
+  -> CLEARING
+  -> LEARING
+  -> EARING
+  -> ERING
+  -> RING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for SLASHINGS:
+  -> SLASHINGS
+  -> LASHINGS
+  -> LASHING
+  -> ASHING
+  -> AHING
+  -> HING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for DISCUSSES:
+  -> DISCUSSES
+  -> DISCUSES
+  -> DISCUSS
+  -> DISCUS
+  -> DISCS
+  -> DISS
+  -> DIS
+  -> IS
+  -> I
+
+Reduction path for SAUTEEING:
+  -> SAUTEEING
+  -> SAUTEING
+  -> SAUTING
+  -> SATING
+  -> STING
+  -> TING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for SPLATCHES:
+  -> SPLATCHES
+  -> SLATCHES
+  -> LATCHES
+  -> LACHES
+  -> ACHES
+  -> ACES
+  -> ACE
+  -> AE
+  -> A
+
+Reduction path for ABOUNDING:
+  -> ABOUNDING
+  -> BOUNDING
+  -> BONDING
+  -> BODING
+  -> BOING
+  -> BING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for DEMERGING:
+  -> DEMERGING
+  -> EMERGING
+  -> MERGING
+  -> MERING
+  -> ERING
+  -> RING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for SECERNING:
+  -> SECERNING
+  -> SCERNING
+  -> CERNING
+  -> ERNING
+  -> ERING
+  -> RING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for PREWARMED:
+  -> PREWARMED
+  -> REWARMED
+  -> REARMED
+  -> REAMED
+  -> REAME
+  -> REAM
+  -> RAM
+  -> AM
+  -> A
+
+Reduction path for BRUSHINGS:
+  -> BRUSHINGS
+  -> BUSHINGS
+  -> BUSINGS
+  -> BUSING
+  -> USING
+  -> SING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for SHAMEABLE:
+  -> SHAMEABLE
+  -> SHAMABLE
+  -> SHAMBLE
+  -> HAMBLE
+  -> AMBLE
+  -> ABLE
+  -> ALE
+  -> AE
+  -> A
+
+Reduction path for PAROTOIDS:
+  -> PAROTOIDS
+  -> PAROTIDS
+  -> PAROTIS
+  -> PARTIS
+  -> ARTIS
+  -> ARIS
+  -> AIS
+  -> IS
+  -> I
+
+Reduction path for SMITHINGS:
+  -> SMITHINGS
+  -> SMITHING
+  -> SITHING
+  -> SITING
+  -> STING
+  -> TING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for RANCHERAS:
+  -> RANCHERAS
+  -> RANCHERS
+  -> RANCHES
+  -> RACHES
+  -> ACHES
+  -> ACES
+  -> ACE
+  -> AE
+  -> A
+
+Reduction path for RANCHEROS:
+  -> RANCHEROS
+  -> RANCHERS
+  -> RANCHES
+  -> RACHES
+  -> ACHES
+  -> ACES
+  -> ACE
+  -> AE
+  -> A
+
+Reduction path for BATOONING:
+  -> BATOONING
+  -> BATONING
+  -> ATONING
+  -> TONING
+  -> TOING
+  -> TING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for UNITIZERS:
+  -> UNITIZERS
+  -> UNITIZES
+  -> UNITIES
+  -> UNITES
+  -> NITES
+  -> NIES
+  -> NIS
+  -> IS
+  -> I
+
+Reduction path for STRANGEST:
+  -> STRANGEST
+  -> STRANGES
+  -> STRANGE
+  -> STRANG
+  -> STANG
+  -> TANG
+  -> TAG
+  -> AG
+  -> A
+
+Reduction path for STRANGERS:
+  -> STRANGERS
+  -> STRANGES
+  -> STRANGE
+  -> STRANG
+  -> STANG
+  -> TANG
+  -> TAG
+  -> AG
+  -> A
+
+Reduction path for UNSTILLED:
+  -> UNSTILLED
+  -> UNTILLED
+  -> UNTILED
+  -> UNTILE
+  -> UTILE
+  -> TILE
+  -> TIE
+  -> TI
+  -> I
+
+Reduction path for SPRAINING:
+  -> SPRAINING
+  -> SPAINING
+  -> PAINING
+  -> PINING
+  -> PIING
+  -> PING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for SMALTINES:
+  -> SMALTINES
+  -> SALTINES
+  -> SALINES
+  -> ALINES
+  -> LINES
+  -> LIES
+  -> LIS
+  -> IS
+  -> I
+
+Reduction path for INSOLATES:
+  -> INSOLATES
+  -> ISOLATES
+  -> SOLATES
+  -> SLATES
+  -> SATES
+  -> ATES
+  -> ATS
+  -> AS
+  -> A
+
+Reduction path for INSOLATED:
+  -> INSOLATED
+  -> ISOLATED
+  -> SOLATED
+  -> SLATED
+  -> LATED
+  -> LATE
+  -> ATE
+  -> AE
+  -> A
+
+Reduction path for HOUSLINGS:
+  -> HOUSLINGS
+  -> HOUSINGS
+  -> HOUSING
+  -> HOSING
+  -> HOING
+  -> HING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for ANORECTIC:
+  -> ANORECTIC
+  -> ANORETIC
+  -> ANOETIC
+  -> ANETIC
+  -> ANTIC
+  -> ANTI
+  -> ANI
+  -> AI
+  -> I
+
+Reduction path for SPANGLING:
+  -> SPANGLING
+  -> SPANGING
+  -> PANGING
+  -> PAGING
+  -> AGING
+  -> GING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for DUELLISTS:
+  -> DUELLISTS
+  -> DUELISTS
+  -> DELISTS
+  -> DELIST
+  -> DELIS
+  -> DELI
+  -> DEI
+  -> DI
+  -> I
+
+Reduction path for PRICKINGS:
+  -> PRICKINGS
+  -> PICKINGS
+  -> PIKINGS
+  -> PIKING
+  -> PIING
+  -> PING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for ESPOUSING:
+  -> ESPOUSING
+  -> SPOUSING
+  -> SOUSING
+  -> SUSING
+  -> USING
+  -> SING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for DROUKINGS:
+  -> DROUKINGS
+  -> DROUKING
+  -> DOUKING
+  -> DUKING
+  -> DUING
+  -> DING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for MAGNETONS:
+  -> MAGNETONS
+  -> MAGNETOS
+  -> MAGNETS
+  -> MAGNES
+  -> MANES
+  -> ANES
+  -> ANS
+  -> AS
+  -> A
+
+Reduction path for FRAGMENTS:
+  -> FRAGMENTS
+  -> RAGMENTS
+  -> RAGMENT
+  -> RAGMEN
+  -> RAMEN
+  -> AMEN
+  -> AME
+  -> AE
+  -> A
+
+Reduction path for SPAIRGING:
+  -> SPAIRGING
+  -> SPARGING
+  -> PARGING
+  -> PAGING
+  -> AGING
+  -> GING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for CAVILLERS:
+  -> CAVILLERS
+  -> CAVILERS
+  -> CAVIERS
+  -> CAVERS
+  -> AVERS
+  -> AVES
+  -> AVE
+  -> AE
+  -> A
+
+Reduction path for SPIRALING:
+  -> SPIRALING
+  -> SPIRLING
+  -> SPILING
+  -> PILING
+  -> PLING
+  -> LING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for STRANGLED:
+  -> STRANGLED
+  -> STRANGLE
+  -> STRANGE
+  -> STRANG
+  -> STANG
+  -> TANG
+  -> TAG
+  -> AG
+  -> A
+
+Reduction path for STRANGLES:
+  -> STRANGLES
+  -> STRANGES
+  -> STRANGE
+  -> STRANG
+  -> STANG
+  -> TANG
+  -> TAG
+  -> AG
+  -> A
+
+Reduction path for STRANGLER:
+  -> STRANGLER
+  -> STRANGER
+  -> STRANGE
+  -> STRANG
+  -> STANG
+  -> TANG
+  -> TAG
+  -> AG
+  -> A
+
+Reduction path for SPORTIEST:
+  -> SPORTIEST
+  -> PORTIEST
+  -> PORIEST
+  -> PRIEST
+  -> PRIES
+  -> PIES
+  -> PIS
+  -> IS
+  -> I
+
+Reduction path for PROVINCES:
+  -> PROVINCES
+  -> PROVINES
+  -> PROINES
+  -> PROINS
+  -> ROINS
+  -> RINS
+  -> INS
+  -> IS
+  -> I
+
+Reduction path for PARCHEESI:
+  -> PARCHEESI
+  -> PARCHESI
+  -> PARCHES
+  -> ARCHES
+  -> ACHES
+  -> ACES
+  -> ACE
+  -> AE
+  -> A
+
+Reduction path for MAGNETRON:
+  -> MAGNETRON
+  -> MAGNETON
+  -> MAGNETO
+  -> MAGNET
+  -> MANET
+  -> MANE
+  -> ANE
+  -> AE
+  -> A
+
+Reduction path for HOCUSSING:
+  -> HOCUSSING
+  -> HOCUSING
+  -> HOUSING
+  -> HOSING
+  -> HOING
+  -> HING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for ESCALIERS:
+  -> ESCALIERS
+  -> ESCALIER
+  -> SCALIER
+  -> SCALER
+  -> SCALE
+  -> SALE
+  -> ALE
+  -> AE
+  -> A
+
+Reduction path for SLAGGIEST:
+  -> SLAGGIEST
+  -> SAGGIEST
+  -> SAGIEST
+  -> SAGEST
+  -> SAGES
+  -> AGES
+  -> AGS
+  -> AS
+  -> A
+
+Reduction path for PARCHESIS:
+  -> PARCHESIS
+  -> PARCHESI
+  -> PARCHES
+  -> ARCHES
+  -> ACHES
+  -> ACES
+  -> ACE
+  -> AE
+  -> A
+
+Reduction path for ANASTASES:
+  -> ANASTASES
+  -> ANATASES
+  -> ANATASE
+  -> ANATAS
+  -> ANTAS
+  -> ANAS
+  -> NAS
+  -> AS
+  -> A
+
+Reduction path for FLEERINGS:
+  -> FLEERINGS
+  -> LEERINGS
+  -> LEERING
+  -> LERING
+  -> ERING
+  -> RING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for STRAPPERS:
+  -> STRAPPERS
+  -> TRAPPERS
+  -> RAPPERS
+  -> RAPERS
+  -> APERS
+  -> APES
+  -> APE
+  -> AE
+  -> A
+
+Reduction path for PRETAPING:
+  -> PRETAPING
+  -> RETAPING
+  -> REAPING
+  -> RAPING
+  -> APING
+  -> PING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for PEDALLING:
+  -> PEDALLING
+  -> PEDALING
+  -> PEALING
+  -> PALING
+  -> PLING
+  -> LING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for LEARNINGS:
+  -> LEARNINGS
+  -> EARNINGS
+  -> EARINGS
+  -> EARING
+  -> ERING
+  -> RING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for SHARKINGS:
+  -> SHARKINGS
+  -> SARKINGS
+  -> SARKING
+  -> ARKING
+  -> AKING
+  -> KING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for MALIGNERS:
+  -> MALIGNERS
+  -> ALIGNERS
+  -> ALINERS
+  -> LINERS
+  -> LIERS
+  -> LIES
+  -> LIS
+  -> IS
+  -> I
+
+Reduction path for TWITCHERS:
+  -> TWITCHERS
+  -> TWITCHES
+  -> WITCHES
+  -> WITHES
+  -> WITES
+  -> WITS
+  -> ITS
+  -> IS
+  -> I
+
+Reduction path for PORTIERED:
+  -> PORTIERED
+  -> PORTIERE
+  -> PORTIER
+  -> PORIER
+  -> PRIER
+  -> PIER
+  -> PIR
+  -> PI
+  -> I
+
+Reduction path for DECLARERS:
+  -> DECLARERS
+  -> DECLARES
+  -> DECARES
+  -> DEARES
+  -> DARES
+  -> ARES
+  -> ARS
+  -> AS
+  -> A
+
+Reduction path for PORTIERES:
+  -> PORTIERES
+  -> PORTIERE
+  -> PORTIER
+  -> PORIER
+  -> PRIER
+  -> PIER
+  -> PIR
+  -> PI
+  -> I
+
+Reduction path for MALIGNING:
+  -> MALIGNING
+  -> ALIGNING
+  -> ALINING
+  -> LINING
+  -> LININ
+  -> LINN
+  -> INN
+  -> IN
+  -> I
+
+Reduction path for SHIRTINGS:
+  -> SHIRTINGS
+  -> SHIRTING
+  -> SHITING
+  -> SITING
+  -> STING
+  -> TING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for BLACKINGS:
+  -> BLACKINGS
+  -> BACKINGS
+  -> BAKINGS
+  -> BAKING
+  -> AKING
+  -> KING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for ESTOPPING:
+  -> ESTOPPING
+  -> STOPPING
+  -> TOPPING
+  -> TOPING
+  -> OPING
+  -> PING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for SCARPHING:
+  -> SCARPHING
+  -> SCARPING
+  -> CARPING
+  -> CAPING
+  -> APING
+  -> PING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for SPOOLINGS:
+  -> SPOOLINGS
+  -> SPOOLING
+  -> POOLING
+  -> POLING
+  -> PLING
+  -> LING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for THREADERS:
+  -> THREADERS
+  -> TREADERS
+  -> TRADERS
+  -> TRADES
+  -> TRADS
+  -> RADS
+  -> ADS
+  -> AS
+  -> A
+
+Reduction path for SOLVATING:
+  -> SOLVATING
+  -> SOLATING
+  -> SLATING
+  -> SATING
+  -> STING
+  -> TING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for MILLIEMES:
+  -> MILLIEMES
+  -> MILLIMES
+  -> MILLIES
+  -> MILLES
+  -> MILES
+  -> MILS
+  -> MIS
+  -> IS
+  -> I
+
+Reduction path for BILANDERS:
+  -> BILANDERS
+  -> BILANDER
+  -> BLANDER
+  -> LANDER
+  -> LADER
+  -> LAER
+  -> LAR
+  -> AR
+  -> A
+
+Reduction path for RECKLINGS:
+  -> RECKLINGS
+  -> RECKLING
+  -> RECKING
+  -> REKING
+  -> EKING
+  -> KING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for THREADIER:
+  -> THREADIER
+  -> THREADER
+  -> TREADER
+  -> TRADER
+  -> TRADE
+  -> RADE
+  -> RAD
+  -> AD
+  -> A
+
+Reduction path for UNPRAISED:
+  -> UNPRAISED
+  -> UPRAISED
+  -> PRAISED
+  -> RAISED
+  -> RASED
+  -> RASE
+  -> RAS
+  -> AS
+  -> A
+
+Reduction path for UNPRAISES:
+  -> UNPRAISES
+  -> UPRAISES
+  -> PRAISES
+  -> RAISES
+  -> RASES
+  -> RASE
+  -> RAS
+  -> AS
+  -> A
+
+Reduction path for DEARLINGS:
+  -> DEARLINGS
+  -> DEARLING
+  -> DEARING
+  -> EARING
+  -> ERING
+  -> RING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for SCRAGGILY:
+  -> SCRAGGILY
+  -> SCRAGGLY
+  -> SCRAGGY
+  -> CRAGGY
+  -> RAGGY
+  -> RAGG
+  -> RAG
+  -> AG
+  -> A
+
+Reduction path for CLASHINGS:
+  -> CLASHINGS
+  -> LASHINGS
+  -> LASHING
+  -> ASHING
+  -> AHING
+  -> HING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for TWITCHIER:
+  -> TWITCHIER
+  -> WITCHIER
+  -> WITHIER
+  -> WITHER
+  -> WITHE
+  -> WITE
+  -> WIT
+  -> IT
+  -> I
+
+Reduction path for TWITCHING:
+  -> TWITCHING
+  -> WITCHING
+  -> ITCHING
+  -> ICHING
+  -> CHING
+  -> HING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for BLUEWINGS:
+  -> BLUEWINGS
+  -> BLUEINGS
+  -> BLUINGS
+  -> BLINGS
+  -> LINGS
+  -> INGS
+  -> INS
+  -> IS
+  -> I
+
+Reduction path for CARROUSEL:
+  -> CARROUSEL
+  -> CAROUSEL
+  -> CAROUSE
+  -> AROUSE
+  -> AROSE
+  -> ARSE
+  -> ARE
+  -> AE
+  -> A
+
+Reduction path for COHOUSING:
+  -> COHOUSING
+  -> CHOUSING
+  -> HOUSING
+  -> HOSING
+  -> HOING
+  -> HING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for STITCHERS:
+  -> STITCHERS
+  -> STITCHES
+  -> TITCHES
+  -> TICHES
+  -> TICES
+  -> TIES
+  -> TIS
+  -> IS
+  -> I
+
+Reduction path for QUINTAINS:
+  -> QUINTAINS
+  -> QUINTANS
+  -> QUINTAS
+  -> QUINAS
+  -> QUINS
+  -> QINS
+  -> INS
+  -> IS
+  -> I
+
+Reduction path for REDBAITED:
+  -> REDBAITED
+  -> REBAITED
+  -> REBATED
+  -> REBATE
+  -> REATE
+  -> RATE
+  -> ATE
+  -> AE
+  -> A
+
+Reduction path for PAINTINGS:
+  -> PAINTINGS
+  -> PAINTING
+  -> PAINING
+  -> PINING
+  -> PIING
+  -> PING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for SQUINNIES:
+  -> SQUINNIES
+  -> SQUINIES
+  -> QUINIES
+  -> QUINES
+  -> QUINS
+  -> QINS
+  -> INS
+  -> IS
+  -> I
+
+Reduction path for CHIACKING:
+  -> CHIACKING
+  -> CHACKING
+  -> CACKING
+  -> CAKING
+  -> AKING
+  -> KING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for PURFLINGS:
+  -> PURFLINGS
+  -> PURLINGS
+  -> PULINGS
+  -> PLINGS
+  -> LINGS
+  -> INGS
+  -> INS
+  -> IS
+  -> I
+
+Reduction path for DROWNDING:
+  -> DROWNDING
+  -> DROWNING
+  -> DOWNING
+  -> OWNING
+  -> OWING
+  -> WING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for SWARTHIER:
+  -> SWARTHIER
+  -> SWATHIER
+  -> SWATHER
+  -> SWATHE
+  -> SWATH
+  -> SWAT
+  -> WAT
+  -> AT
+  -> A
+
+Reduction path for BATCHINGS:
+  -> BATCHINGS
+  -> BATCHING
+  -> BACHING
+  -> ACHING
+  -> CHING
+  -> HING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for STICKLERS:
+  -> STICKLERS
+  -> STICKERS
+  -> STICKER
+  -> SICKER
+  -> SIKER
+  -> SIKE
+  -> SIK
+  -> SI
+  -> I
+
+Reduction path for TROLLINGS:
+  -> TROLLINGS
+  -> TOLLINGS
+  -> TOLINGS
+  -> TOINGS
+  -> TINGS
+  -> INGS
+  -> INS
+  -> IS
+  -> I
+
+Reduction path for SIWASHING:
+  -> SIWASHING
+  -> SWASHING
+  -> WASHING
+  -> ASHING
+  -> AHING
+  -> HING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for SUBTITLES:
+  -> SUBTITLES
+  -> SUBTITLE
+  -> SUBTILE
+  -> SUTILE
+  -> UTILE
+  -> TILE
+  -> TIE
+  -> TI
+  -> I
+
+Reduction path for SUBTITLED:
+  -> SUBTITLED
+  -> SUBTITLE
+  -> SUBTILE
+  -> SUTILE
+  -> UTILE
+  -> TILE
+  -> TIE
+  -> TI
+  -> I
+
+Reduction path for STAGGIEST:
+  -> STAGGIEST
+  -> SAGGIEST
+  -> SAGIEST
+  -> SAGEST
+  -> SAGES
+  -> AGES
+  -> AGS
+  -> AS
+  -> A
+
+Reduction path for CAROLUSES:
+  -> CAROLUSES
+  -> CAROUSES
+  -> AROUSES
+  -> AROUSE
+  -> AROSE
+  -> ARSE
+  -> ARE
+  -> AE
+  -> A
+
+Reduction path for LAUNCHERS:
+  -> LAUNCHERS
+  -> LAUNCHES
+  -> LANCHES
+  -> LACHES
+  -> ACHES
+  -> ACES
+  -> ACE
+  -> AE
+  -> A
+
+Reduction path for CHILDBEDS:
+  -> CHILDBEDS
+  -> CHILDBED
+  -> CHILDED
+  -> CHIDED
+  -> HIDED
+  -> HIED
+  -> HID
+  -> ID
+  -> I
+
+Reduction path for BROWSINGS:
+  -> BROWSINGS
+  -> BROWSING
+  -> BOWSING
+  -> BOWING
+  -> OWING
+  -> WING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for SCROWLING:
+  -> SCROWLING
+  -> SCOWLING
+  -> COWLING
+  -> OWLING
+  -> OWING
+  -> WING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for MISSPELLS:
+  -> MISSPELLS
+  -> MISSELLS
+  -> MISSELS
+  -> MISSES
+  -> MISES
+  -> MISS
+  -> MIS
+  -> IS
+  -> I
+
+Reduction path for CINCHINGS:
+  -> CINCHINGS
+  -> CINCHING
+  -> INCHING
+  -> ICHING
+  -> CHING
+  -> HING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for SCAMPINGS:
+  -> SCAMPINGS
+  -> CAMPINGS
+  -> CAMPING
+  -> AMPING
+  -> APING
+  -> PING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for SCARPINGS:
+  -> SCARPINGS
+  -> CARPINGS
+  -> CARPING
+  -> CAPING
+  -> APING
+  -> PING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for NOMADISES:
+  -> NOMADISES
+  -> NOMADIES
+  -> NOMADES
+  -> NOMADS
+  -> NOMAS
+  -> OMAS
+  -> MAS
+  -> AS
+  -> A
+
+Reduction path for SUPINATED:
+  -> SUPINATED
+  -> SUPINATE
+  -> SPINATE
+  -> SPINAE
+  -> SPINE
+  -> PINE
+  -> PIE
+  -> PI
+  -> I
+
+Reduction path for SUPINATES:
+  -> SUPINATES
+  -> SUPINATE
+  -> SPINATE
+  -> SPINAE
+  -> SPINE
+  -> PINE
+  -> PIE
+  -> PI
+  -> I
+
+Reduction path for SWARTIEST:
+  -> SWARTIEST
+  -> WARTIEST
+  -> ARTIEST
+  -> ARTIST
+  -> ARTIS
+  -> ARIS
+  -> AIS
+  -> IS
+  -> I
+
+Reduction path for MISTERING:
+  -> MISTERING
+  -> MITERING
+  -> MITRING
+  -> MIRING
+  -> IRING
+  -> RING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for MISTERIES:
+  -> MISTERIES
+  -> MISERIES
+  -> MISERES
+  -> MISERS
+  -> MISES
+  -> MISS
+  -> MIS
+  -> IS
+  -> I
+
+Reduction path for REECHOING:
+  -> REECHOING
+  -> REECHING
+  -> EECHING
+  -> ECHING
+  -> CHING
+  -> HING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for SCRAPINGS:
+  -> SCRAPINGS
+  -> SCRAPING
+  -> CRAPING
+  -> RAPING
+  -> APING
+  -> PING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for MISTERMED:
+  -> MISTERMED
+  -> MISTERED
+  -> MITERED
+  -> MITRED
+  -> MIRED
+  -> MIRE
+  -> MIR
+  -> MI
+  -> I
+
+Reduction path for STARRIEST:
+  -> STARRIEST
+  -> TARRIEST
+  -> TARRIES
+  -> TARRES
+  -> TARES
+  -> ARES
+  -> ARS
+  -> AS
+  -> A
+
+Reduction path for DAWDLINGS:
+  -> DAWDLINGS
+  -> DAWDLING
+  -> DAWDING
+  -> DAWING
+  -> AWING
+  -> WING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for NOMADIZES:
+  -> NOMADIZES
+  -> NOMADIES
+  -> NOMADES
+  -> NOMADS
+  -> NOMAS
+  -> OMAS
+  -> MAS
+  -> AS
+  -> A
+
+Reduction path for TRIPPLERS:
+  -> TRIPPLERS
+  -> TRIPPLES
+  -> TRIPLES
+  -> TRIPES
+  -> TRIES
+  -> TIES
+  -> TIS
+  -> IS
+  -> I
+
+Reduction path for BARDLINGS:
+  -> BARDLINGS
+  -> BARDLING
+  -> BARDING
+  -> BARING
+  -> BRING
+  -> RING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for ASTARTING:
+  -> ASTARTING
+  -> STARTING
+  -> STATING
+  -> SATING
+  -> STING
+  -> TING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for PRATTLERS:
+  -> PRATTLERS
+  -> RATTLERS
+  -> RATTERS
+  -> RATERS
+  -> RATES
+  -> ATES
+  -> ATS
+  -> AS
+  -> A
+
+Reduction path for GREEKINGS:
+  -> GREEKINGS
+  -> GREEKING
+  -> REEKING
+  -> REKING
+  -> EKING
+  -> KING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for BLUSHINGS:
+  -> BLUSHINGS
+  -> BUSHINGS
+  -> BUSINGS
+  -> BUSING
+  -> USING
+  -> SING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for PINASTERS:
+  -> PINASTERS
+  -> PIASTERS
+  -> PASTERS
+  -> PATERS
+  -> PATES
+  -> ATES
+  -> ATS
+  -> AS
+  -> A
+
+Reduction path for CAULKINGS:
+  -> CAULKINGS
+  -> CALKINGS
+  -> CAKINGS
+  -> CAKING
+  -> AKING
+  -> KING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for TWATTLERS:
+  -> TWATTLERS
+  -> TATTLERS
+  -> TATLERS
+  -> TALERS
+  -> TALES
+  -> ALES
+  -> ALS
+  -> AS
+  -> A
+
+Reduction path for SMASHINGS:
+  -> SMASHINGS
+  -> MASHINGS
+  -> MASHING
+  -> ASHING
+  -> AHING
+  -> HING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for TROTTINGS:
+  -> TROTTINGS
+  -> TOTTINGS
+  -> TOTTING
+  -> TOTING
+  -> TOING
+  -> TING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for BLOCKINGS:
+  -> BLOCKINGS
+  -> BLOCKING
+  -> BOCKING
+  -> BOKING
+  -> BOING
+  -> BING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for MAUVEINES:
+  -> MAUVEINES
+  -> MAUVINES
+  -> MAUVINS
+  -> MAVINS
+  -> MAINS
+  -> AINS
+  -> INS
+  -> IS
+  -> I
+
+Reduction path for WARSTLING:
+  -> WARSTLING
+  -> WARSLING
+  -> WARLING
+  -> WARING
+  -> WRING
+  -> RING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for SWANNIEST:
+  -> SWANNIEST
+  -> SWANNIES
+  -> SANNIES
+  -> SANIES
+  -> SNIES
+  -> NIES
+  -> NIS
+  -> IS
+  -> I
+
+Reduction path for SHACKLERS:
+  -> SHACKLERS
+  -> HACKLERS
+  -> HACKERS
+  -> ACKERS
+  -> ACERS
+  -> ACES
+  -> ACE
+  -> AE
+  -> A
+
+Reduction path for RATTLINES:
+  -> RATTLINES
+  -> RATLINES
+  -> RATINES
+  -> RAINES
+  -> RINES
+  -> RINS
+  -> INS
+  -> IS
+  -> I
+
+Reduction path for FRACKINGS:
+  -> FRACKINGS
+  -> RACKINGS
+  -> RAKINGS
+  -> RAKING
+  -> AKING
+  -> KING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for HIRELINGS:
+  -> HIRELINGS
+  -> HIRLINGS
+  -> HIRINGS
+  -> HIRING
+  -> IRING
+  -> RING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for PLANKTERS:
+  -> PLANKTERS
+  -> PLANTERS
+  -> PANTERS
+  -> PATERS
+  -> PATES
+  -> ATES
+  -> ATS
+  -> AS
+  -> A
+
+Reduction path for MINISTERS:
+  -> MINISTERS
+  -> MINSTERS
+  -> MISTERS
+  -> MISERS
+  -> MISES
+  -> MISS
+  -> MIS
+  -> IS
+  -> I
+
+Reduction path for GAMBOLLED:
+  -> GAMBOLLED
+  -> GAMBOLED
+  -> GAMBLED
+  -> AMBLED
+  -> ABLED
+  -> ABLE
+  -> ALE
+  -> AE
+  -> A
+
+Reduction path for PARISHENS:
+  -> PARISHENS
+  -> PARISHES
+  -> ARISHES
+  -> ARISES
+  -> ARSES
+  -> ARES
+  -> ARS
+  -> AS
+  -> A
+
+Reduction path for CHORUSING:
+  -> CHORUSING
+  -> CHOUSING
+  -> HOUSING
+  -> HOSING
+  -> HOING
+  -> HING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for PRICKLING:
+  -> PRICKLING
+  -> PICKLING
+  -> PICKING
+  -> PIKING
+  -> PIING
+  -> PING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for PRICKLIER:
+  -> PRICKLIER
+  -> PRICKIER
+  -> PICKIER
+  -> PICKER
+  -> PIKER
+  -> PIER
+  -> PIR
+  -> PI
+  -> I
+
+Reduction path for SPARKIEST:
+  -> SPARKIEST
+  -> PARKIEST
+  -> PARKIES
+  -> PARIES
+  -> PRIES
+  -> PIES
+  -> PIS
+  -> IS
+  -> I
+
+Reduction path for PHONEYING:
+  -> PHONEYING
+  -> PHONYING
+  -> PHONING
+  -> HONING
+  -> HOING
+  -> HING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for BATTELLED:
+  -> BATTELLED
+  -> BATTELED
+  -> BATTLED
+  -> BATTED
+  -> BATED
+  -> BATE
+  -> ATE
+  -> AE
+  -> A
+
+Reduction path for BONUSSING:
+  -> BONUSSING
+  -> BONUSING
+  -> BOUSING
+  -> BUSING
+  -> USING
+  -> SING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for GAMBOLING:
+  -> GAMBOLING
+  -> GAMBLING
+  -> AMBLING
+  -> ABLING
+  -> BLING
+  -> LING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for USURPINGS:
+  -> USURPINGS
+  -> USURPING
+  -> USURING
+  -> SURING
+  -> SUING
+  -> SING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for ROSETTING:
+  -> ROSETTING
+  -> ROSETING
+  -> ROSTING
+  -> ROSING
+  -> ROSIN
+  -> ROIN
+  -> RIN
+  -> IN
+  -> I
+
+Reduction path for DEPRIVERS:
+  -> DEPRIVERS
+  -> DERIVERS
+  -> DRIVERS
+  -> DIVERS
+  -> DIVES
+  -> DIES
+  -> DIS
+  -> IS
+  -> I
+
+Reduction path for HEATHENRY:
+  -> HEATHENRY
+  -> HEATHERY
+  -> HEATHER
+  -> HEATER
+  -> HATER
+  -> HATE
+  -> ATE
+  -> AE
+  -> A
+
+Reduction path for STARRINGS:
+  -> STARRINGS
+  -> STARINGS
+  -> STRINGS
+  -> STINGS
+  -> TINGS
+  -> INGS
+  -> INS
+  -> IS
+  -> I
+
+Reduction path for YEARNINGS:
+  -> YEARNINGS
+  -> EARNINGS
+  -> EARINGS
+  -> EARING
+  -> ERING
+  -> RING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for SNAGGIEST:
+  -> SNAGGIEST
+  -> SAGGIEST
+  -> SAGIEST
+  -> SAGEST
+  -> SAGES
+  -> AGES
+  -> AGS
+  -> AS
+  -> A
+
+Reduction path for CROAKINGS:
+  -> CROAKINGS
+  -> CROAKING
+  -> CRAKING
+  -> RAKING
+  -> AKING
+  -> KING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for THRONGING:
+  -> THRONGING
+  -> THONGING
+  -> HONGING
+  -> HONING
+  -> HOING
+  -> HING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for TRIANGLED:
+  -> TRIANGLED
+  -> TRIANGLE
+  -> TRINGLE
+  -> TINGLE
+  -> TINGE
+  -> TIGE
+  -> TIE
+  -> TI
+  -> I
+
+Reduction path for TRIANGLES:
+  -> TRIANGLES
+  -> TRINGLES
+  -> TINGLES
+  -> TINGES
+  -> TIGES
+  -> TIES
+  -> TIS
+  -> IS
+  -> I
+
+Reduction path for LIVEYERES:
+  -> LIVEYERES
+  -> LIVEYERS
+  -> LIVYERS
+  -> LIVERS
+  -> LIERS
+  -> LIES
+  -> LIS
+  -> IS
+  -> I
+
+Reduction path for GABBLINGS:
+  -> GABBLINGS
+  -> GABBLING
+  -> GABLING
+  -> ABLING
+  -> BLING
+  -> LING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for STILTINGS:
+  -> STILTINGS
+  -> STILTING
+  -> SILTING
+  -> SITING
+  -> STING
+  -> TING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for FLAUNCHES:
+  -> FLAUNCHES
+  -> LAUNCHES
+  -> LANCHES
+  -> LACHES
+  -> ACHES
+  -> ACES
+  -> ACE
+  -> AE
+  -> A
+
+Reduction path for FLAUNCHED:
+  -> FLAUNCHED
+  -> LAUNCHED
+  -> LANCHED
+  -> LANCED
+  -> LACED
+  -> ACED
+  -> ACE
+  -> AE
+  -> A
+
+Reduction path for STARVINGS:
+  -> STARVINGS
+  -> STARINGS
+  -> STRINGS
+  -> STINGS
+  -> TINGS
+  -> INGS
+  -> INS
+  -> IS
+  -> I
+
+Reduction path for KETAMINES:
+  -> KETAMINES
+  -> ETAMINES
+  -> TAMINES
+  -> AMINES
+  -> AMIES
+  -> AMES
+  -> AME
+  -> AE
+  -> A
+
+Reduction path for RESTARTED:
+  -> RESTARTED
+  -> RESTATED
+  -> ESTATED
+  -> STATED
+  -> SATED
+  -> SATE
+  -> ATE
+  -> AE
+  -> A
+
+Reduction path for DROLLINGS:
+  -> DROLLINGS
+  -> DROLLING
+  -> DOLLING
+  -> DOLING
+  -> DOING
+  -> DING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for CARABINES:
+  -> CARABINES
+  -> CARBINES
+  -> CARBIES
+  -> CARIES
+  -> CRIES
+  -> CRIS
+  -> CIS
+  -> IS
+  -> I
+
+Reduction path for WHACKIEST:
+  -> WHACKIEST
+  -> WACKIEST
+  -> WACKEST
+  -> WACKES
+  -> WAKES
+  -> AKES
+  -> AKE
+  -> AE
+  -> A
+
+Reduction path for STALKINGS:
+  -> STALKINGS
+  -> TALKINGS
+  -> TAKINGS
+  -> TAKINS
+  -> TAINS
+  -> AINS
+  -> INS
+  -> IS
+  -> I
+
+Reduction path for OUTRANGED:
+  -> OUTRANGED
+  -> OUTRANGE
+  -> OUTRANG
+  -> OURANG
+  -> ORANG
+  -> RANG
+  -> RAG
+  -> AG
+  -> A
+
+Reduction path for OUTRANGES:
+  -> OUTRANGES
+  -> OUTRANGE
+  -> OUTRANG
+  -> OURANG
+  -> ORANG
+  -> RANG
+  -> RAG
+  -> AG
+  -> A
+
+Reduction path for GARNISHES:
+  -> GARNISHES
+  -> GARISHES
+  -> ARISHES
+  -> ARISES
+  -> ARSES
+  -> ARES
+  -> ARS
+  -> AS
+  -> A
+
+Reduction path for WHOOPINGS:
+  -> WHOOPINGS
+  -> WHOOPING
+  -> HOOPING
+  -> OOPING
+  -> OPING
+  -> PING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for PRETASTED:
+  -> PRETASTED
+  -> RETASTED
+  -> REASTED
+  -> EASTED
+  -> EASED
+  -> EASE
+  -> EAS
+  -> AS
+  -> A
+
+Reduction path for ASCARIDES:
+  -> ASCARIDES
+  -> ASCARIDS
+  -> ACARIDS
+  -> ACARID
+  -> ACRID
+  -> ARID
+  -> RID
+  -> ID
+  -> I
+
+Reduction path for THROWINGS:
+  -> THROWINGS
+  -> THROWING
+  -> TROWING
+  -> ROWING
+  -> OWING
+  -> WING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for ODORISERS:
+  -> ODORISERS
+  -> ODORISES
+  -> DORISES
+  -> DORIES
+  -> DRIES
+  -> DIES
+  -> DIS
+  -> IS
+  -> I
+
+Reduction path for KLATSCHES:
+  -> KLATSCHES
+  -> KLATCHES
+  -> LATCHES
+  -> LACHES
+  -> ACHES
+  -> ACES
+  -> ACE
+  -> AE
+  -> A
+
+Reduction path for STROKINGS:
+  -> STROKINGS
+  -> STROKING
+  -> TROKING
+  -> TOKING
+  -> TOING
+  -> TING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for BREECHING:
+  -> BREECHING
+  -> REECHING
+  -> EECHING
+  -> ECHING
+  -> CHING
+  -> HING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for CHAMOISES:
+  -> CHAMOISES
+  -> CHAMISES
+  -> CAMISES
+  -> AMISES
+  -> MISES
+  -> MISS
+  -> MIS
+  -> IS
+  -> I
+
+Reduction path for SPLINTERY:
+  -> SPLINTERY
+  -> SPLINTER
+  -> SLINTER
+  -> LINTER
+  -> LITER
+  -> LIER
+  -> LIE
+  -> LI
+  -> I
+
+Reduction path for SPLINTERS:
+  -> SPLINTERS
+  -> SLINTERS
+  -> LINTERS
+  -> LITERS
+  -> LIERS
+  -> LIES
+  -> LIS
+  -> IS
+  -> I
+
+Reduction path for EMPERISED:
+  -> EMPERISED
+  -> EMPERISE
+  -> EMPRISE
+  -> EPRISE
+  -> PRISE
+  -> PISE
+  -> PIE
+  -> PI
+  -> I
+
+Reduction path for EMPERISES:
+  -> EMPERISES
+  -> EMPRISES
+  -> EMPRISE
+  -> EPRISE
+  -> PRISE
+  -> PISE
+  -> PIE
+  -> PI
+  -> I
+
+Reduction path for STILLINGS:
+  -> STILLINGS
+  -> STILLING
+  -> STILING
+  -> SILING
+  -> SLING
+  -> LING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for THANKINGS:
+  -> THANKINGS
+  -> TANKINGS
+  -> TAKINGS
+  -> TAKINS
+  -> TAINS
+  -> AINS
+  -> INS
+  -> IS
+  -> I
+
+Reduction path for SHEARINGS:
+  -> SHEARINGS
+  -> HEARINGS
+  -> EARINGS
+  -> EARING
+  -> ERING
+  -> RING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for STROLLING:
+  -> STROLLING
+  -> TROLLING
+  -> TOLLING
+  -> TOLING
+  -> TOING
+  -> TING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for SCHOOLING:
+  -> SCHOOLING
+  -> SHOOLING
+  -> SOOLING
+  -> SOLING
+  -> SLING
+  -> LING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for SPIRLINGS:
+  -> SPIRLINGS
+  -> SPILINGS
+  -> PILINGS
+  -> PLINGS
+  -> LINGS
+  -> INGS
+  -> INS
+  -> IS
+  -> I
+
+Reduction path for BRATCHETS:
+  -> BRATCHETS
+  -> RATCHETS
+  -> RACHETS
+  -> RACHES
+  -> ACHES
+  -> ACES
+  -> ACE
+  -> AE
+  -> A
+
+Reduction path for ACERBATED:
+  -> ACERBATED
+  -> ACERATED
+  -> CERATED
+  -> CRATED
+  -> RATED
+  -> RATE
+  -> ATE
+  -> AE
+  -> A
+
+Reduction path for ACERBATES:
+  -> ACERBATES
+  -> ACERBATE
+  -> ACERATE
+  -> CERATE
+  -> CRATE
+  -> RATE
+  -> ATE
+  -> AE
+  -> A
+
+Reduction path for MANDIOCAS:
+  -> MANDIOCAS
+  -> MANIOCAS
+  -> MANIOCS
+  -> MANICS
+  -> MANIS
+  -> ANIS
+  -> NIS
+  -> IS
+  -> I
+
+Reduction path for MANDIOCCA:
+  -> MANDIOCCA
+  -> MANDIOCA
+  -> MANIOCA
+  -> MANIOC
+  -> MANIC
+  -> MANI
+  -> ANI
+  -> AI
+  -> I
+
+Reduction path for MAISTERED:
+  -> MAISTERED
+  -> MISTERED
+  -> MITERED
+  -> MITRED
+  -> MIRED
+  -> MIRE
+  -> MIR
+  -> MI
+  -> I
+
+Reduction path for STANNATES:
+  -> STANNATES
+  -> TANNATES
+  -> ANNATES
+  -> ANNATS
+  -> ANNAS
+  -> ANAS
+  -> NAS
+  -> AS
+  -> A
+
+Reduction path for CRANKIEST:
+  -> CRANKIEST
+  -> CRANKEST
+  -> RANKEST
+  -> RANKES
+  -> RAKES
+  -> AKES
+  -> AKE
+  -> AE
+  -> A
+
+Reduction path for STRAYVING:
+  -> STRAYVING
+  -> STRAYING
+  -> STAYING
+  -> STYING
+  -> TYING
+  -> TING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for GAGGLINGS:
+  -> GAGGLINGS
+  -> GAGGLING
+  -> GAGGING
+  -> GAGING
+  -> AGING
+  -> GING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for SPRINGLET:
+  -> SPRINGLET
+  -> SPRINGLE
+  -> SPRINGE
+  -> SPRING
+  -> SPRIG
+  -> PRIG
+  -> PIG
+  -> PI
+  -> I
+
+Reduction path for SPRINGLES:
+  -> SPRINGLES
+  -> SPRINGES
+  -> SPRINGS
+  -> SPRIGS
+  -> PRIGS
+  -> PIGS
+  -> PIS
+  -> IS
+  -> I
+
+Reduction path for MARSHIEST:
+  -> MARSHIEST
+  -> MASHIEST
+  -> ASHIEST
+  -> SHIEST
+  -> SHIST
+  -> HIST
+  -> HIT
+  -> IT
+  -> I
+
+Reduction path for STANCHEST:
+  -> STANCHEST
+  -> STANCHES
+  -> STANCES
+  -> STANES
+  -> SANES
+  -> ANES
+  -> ANS
+  -> AS
+  -> A
+
+Reduction path for STANCHERS:
+  -> STANCHERS
+  -> STANCHES
+  -> STANCES
+  -> STANES
+  -> SANES
+  -> ANES
+  -> ANS
+  -> AS
+  -> A
+
+Reduction path for STANCHELS:
+  -> STANCHELS
+  -> STANCHES
+  -> STANCES
+  -> STANES
+  -> SANES
+  -> ANES
+  -> ANS
+  -> AS
+  -> A
+
+Reduction path for CHAMISALS:
+  -> CHAMISALS
+  -> CHAMISAS
+  -> CAMISAS
+  -> CAMISA
+  -> CAMIS
+  -> AMIS
+  -> MIS
+  -> IS
+  -> I
+
+Reduction path for SCOOPINGS:
+  -> SCOOPINGS
+  -> SOOPINGS
+  -> SOOPING
+  -> OOPING
+  -> OPING
+  -> PING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for PLAISTERS:
+  -> PLAISTERS
+  -> PLASTERS
+  -> LASTERS
+  -> LASERS
+  -> LAERS
+  -> LARS
+  -> ARS
+  -> AS
+  -> A
+
+Reduction path for GESTATING:
+  -> GESTATING
+  -> ESTATING
+  -> STATING
+  -> SATING
+  -> STING
+  -> TING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for SPRINGIER:
+  -> SPRINGIER
+  -> SPRINGER
+  -> SPRINGE
+  -> SPRING
+  -> SPRIG
+  -> PRIG
+  -> PIG
+  -> PI
+  -> I
+
+Reduction path for WHIRLINGS:
+  -> WHIRLINGS
+  -> HIRLINGS
+  -> HIRINGS
+  -> HIRING
+  -> IRING
+  -> RING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for SPRINGERS:
+  -> SPRINGERS
+  -> SPRINGES
+  -> SPRINGS
+  -> SPRIGS
+  -> PRIGS
+  -> PIGS
+  -> PIS
+  -> IS
+  -> I
+
+Reduction path for STEAMINGS:
+  -> STEAMINGS
+  -> TEAMINGS
+  -> TAMINGS
+  -> TAMINS
+  -> AMINS
+  -> AINS
+  -> INS
+  -> IS
+  -> I
+
+Reduction path for TWADDLERS:
+  -> TWADDLERS
+  -> WADDLERS
+  -> WADDERS
+  -> WADERS
+  -> WADES
+  -> WAES
+  -> WAS
+  -> AS
+  -> A
+
+Reduction path for SCRANCHES:
+  -> SCRANCHES
+  -> CRANCHES
+  -> RANCHES
+  -> RACHES
+  -> ACHES
+  -> ACES
+  -> ACE
+  -> AE
+  -> A
+
+Reduction path for SCRANCHED:
+  -> SCRANCHED
+  -> CRANCHED
+  -> RANCHED
+  -> RANCED
+  -> RACED
+  -> ACED
+  -> ACE
+  -> AE
+  -> A
+
+Reduction path for SHOOGLING:
+  -> SHOOGLING
+  -> SHOOLING
+  -> SOOLING
+  -> SOLING
+  -> SLING
+  -> LING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for STORMINGS:
+  -> STORMINGS
+  -> STORMING
+  -> STORING
+  -> STRING
+  -> STING
+  -> TING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for PATELLATE:
+  -> PATELLATE
+  -> PATELLAE
+  -> PATELLA
+  -> PAELLA
+  -> PALLA
+  -> PALL
+  -> ALL
+  -> AL
+  -> A
+
+Reduction path for CROPPINGS:
+  -> CROPPINGS
+  -> CROPPING
+  -> COPPING
+  -> COPING
+  -> OPING
+  -> PING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for SCREAKING:
+  -> SCREAKING
+  -> CREAKING
+  -> REAKING
+  -> RAKING
+  -> AKING
+  -> KING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for SCURRIERS:
+  -> SCURRIERS
+  -> CURRIERS
+  -> CURRIES
+  -> CURIES
+  -> CRIES
+  -> CRIS
+  -> CIS
+  -> IS
+  -> I
+
+Reduction path for SPEIRINGS:
+  -> SPEIRINGS
+  -> SPEIRING
+  -> SPIRING
+  -> SIRING
+  -> IRING
+  -> RING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for SCOURGING:
+  -> SCOURGING
+  -> SCOURING
+  -> SOURING
+  -> SURING
+  -> SUING
+  -> SING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for ASTRINGED:
+  -> ASTRINGED
+  -> STRINGED
+  -> STINGED
+  -> TINGED
+  -> TINED
+  -> TIED
+  -> TID
+  -> ID
+  -> I
+
+Reduction path for ASTRINGER:
+  -> ASTRINGER
+  -> STRINGER
+  -> STINGER
+  -> SINGER
+  -> SINGE
+  -> SINE
+  -> SIN
+  -> IN
+  -> I
+
+Reduction path for SCROOPING:
+  -> SCROOPING
+  -> SCOOPING
+  -> COOPING
+  -> OOPING
+  -> OPING
+  -> PING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for DIVIDENDS:
+  -> DIVIDENDS
+  -> DIVIDEND
+  -> DIVIDED
+  -> DIVIED
+  -> IVIED
+  -> VIED
+  -> VID
+  -> ID
+  -> I
+
+Reduction path for KNAPPLING:
+  -> KNAPPLING
+  -> KNAPPING
+  -> NAPPING
+  -> NAPING
+  -> APING
+  -> PING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for TWADDLIER:
+  -> TWADDLIER
+  -> WADDLIER
+  -> WADDLER
+  -> WADDER
+  -> WADER
+  -> WADE
+  -> WAE
+  -> AE
+  -> A
+
+Reduction path for PREARMING:
+  -> PREARMING
+  -> REARMING
+  -> REARING
+  -> EARING
+  -> ERING
+  -> RING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for LETCHINGS:
+  -> LETCHINGS
+  -> ETCHINGS
+  -> ETCHING
+  -> ECHING
+  -> CHING
+  -> HING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for BATTELERS:
+  -> BATTELERS
+  -> BATTLERS
+  -> BATLERS
+  -> BALERS
+  -> BALES
+  -> ALES
+  -> ALS
+  -> AS
+  -> A
+
+Reduction path for BROWNINGS:
+  -> BROWNINGS
+  -> BROWNING
+  -> BOWNING
+  -> OWNING
+  -> OWING
+  -> WING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for RESTATING:
+  -> RESTATING
+  -> ESTATING
+  -> STATING
+  -> SATING
+  -> STING
+  -> TING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for GARFISHES:
+  -> GARFISHES
+  -> GARISHES
+  -> ARISHES
+  -> ARISES
+  -> ARSES
+  -> ARES
+  -> ARS
+  -> AS
+  -> A
+
+Reduction path for BEAGLINGS:
+  -> BEAGLINGS
+  -> BEALINGS
+  -> BALINGS
+  -> BLINGS
+  -> LINGS
+  -> INGS
+  -> INS
+  -> IS
+  -> I
+
+Reduction path for THRILLERS:
+  -> THRILLERS
+  -> TRILLERS
+  -> TILLERS
+  -> TILERS
+  -> TIERS
+  -> TIES
+  -> TIS
+  -> IS
+  -> I
+
+Reduction path for STRAIKING:
+  -> STRAIKING
+  -> TRAIKING
+  -> RAIKING
+  -> RAKING
+  -> AKING
+  -> KING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for LEDGERING:
+  -> LEDGERING
+  -> LEGERING
+  -> LEERING
+  -> LERING
+  -> ERING
+  -> RING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for LEACHINGS:
+  -> LEACHINGS
+  -> LEACHING
+  -> LECHING
+  -> ECHING
+  -> CHING
+  -> HING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for STIRRINGS:
+  -> STIRRINGS
+  -> STIRRING
+  -> TIRRING
+  -> TIRING
+  -> IRING
+  -> RING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for WRAPPINGS:
+  -> WRAPPINGS
+  -> RAPPINGS
+  -> RAPPING
+  -> RAPING
+  -> APING
+  -> PING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for BARYTONES:
+  -> BARYTONES
+  -> BARYTONS
+  -> BARTONS
+  -> BARONS
+  -> BARNS
+  -> BANS
+  -> ANS
+  -> AS
+  -> A
+
+Reduction path for CLANKINGS:
+  -> CLANKINGS
+  -> CLANKING
+  -> LANKING
+  -> LAKING
+  -> AKING
+  -> KING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for GUARISHES:
+  -> GUARISHES
+  -> GARISHES
+  -> ARISHES
+  -> ARISES
+  -> ARSES
+  -> ARES
+  -> ARS
+  -> AS
+  -> A
+
+Reduction path for SHARNIEST:
+  -> SHARNIEST
+  -> SHARNIES
+  -> SARNIES
+  -> SANIES
+  -> SNIES
+  -> NIES
+  -> NIS
+  -> IS
+  -> I
+
+Reduction path for BLONDINGS:
+  -> BLONDINGS
+  -> BONDINGS
+  -> BODINGS
+  -> BOINGS
+  -> BINGS
+  -> INGS
+  -> INS
+  -> IS
+  -> I
+
+Reduction path for SHEARLING:
+  -> SHEARLING
+  -> SHEARING
+  -> HEARING
+  -> EARING
+  -> ERING
+  -> RING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for THRILLIER:
+  -> THRILLIER
+  -> THRILLER
+  -> TRILLER
+  -> TILLER
+  -> TILER
+  -> TIER
+  -> TIE
+  -> TI
+  -> I
+
+Reduction path for GAUNCHING:
+  -> GAUNCHING
+  -> GANCHING
+  -> GACHING
+  -> ACHING
+  -> CHING
+  -> HING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for STROWINGS:
+  -> STROWINGS
+  -> STOWINGS
+  -> TOWINGS
+  -> TOINGS
+  -> TINGS
+  -> INGS
+  -> INS
+  -> IS
+  -> I
+
+Reduction path for QUINTETTI:
+  -> QUINTETTI
+  -> QUINTETT
+  -> QUINTET
+  -> QUINTE
+  -> QUINE
+  -> QUIN
+  -> QIN
+  -> IN
+  -> I
+
+Reduction path for QUINTETTE:
+  -> QUINTETTE
+  -> QUINTETT
+  -> QUINTET
+  -> QUINTE
+  -> QUINE
+  -> QUIN
+  -> QIN
+  -> IN
+  -> I
+
+Reduction path for QUINTETTS:
+  -> QUINTETTS
+  -> QUINTETS
+  -> QUINTES
+  -> QUINES
+  -> QUINS
+  -> QINS
+  -> INS
+  -> IS
+  -> I
+
+Reduction path for QUINTETTO:
+  -> QUINTETTO
+  -> QUINTETT
+  -> QUINTET
+  -> QUINTE
+  -> QUINE
+  -> QUIN
+  -> QIN
+  -> IN
+  -> I
+
+Reduction path for ESTRANGED:
+  -> ESTRANGED
+  -> ESTRANGE
+  -> STRANGE
+  -> STRANG
+  -> STANG
+  -> TANG
+  -> TAG
+  -> AG
+  -> A
+
+Reduction path for ESTRANGES:
+  -> ESTRANGES
+  -> STRANGES
+  -> STRANGE
+  -> STRANG
+  -> STANG
+  -> TANG
+  -> TAG
+  -> AG
+  -> A
+
+Reduction path for ESTRANGER:
+  -> ESTRANGER
+  -> STRANGER
+  -> STRANGE
+  -> STRANG
+  -> STANG
+  -> TANG
+  -> TAG
+  -> AG
+  -> A
+
+Reduction path for SPINNINGS:
+  -> SPINNINGS
+  -> PINNINGS
+  -> PINNING
+  -> PINING
+  -> PIING
+  -> PING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for SHAGGIEST:
+  -> SHAGGIEST
+  -> SAGGIEST
+  -> SAGIEST
+  -> SAGEST
+  -> SAGES
+  -> AGES
+  -> AGS
+  -> AS
+  -> A
+
+Reduction path for UPRAISERS:
+  -> UPRAISERS
+  -> PRAISERS
+  -> RAISERS
+  -> RASERS
+  -> RASES
+  -> RASE
+  -> RAS
+  -> AS
+  -> A
+
+Reduction path for MACERATED:
+  -> MACERATED
+  -> ACERATED
+  -> CERATED
+  -> CRATED
+  -> RATED
+  -> RATE
+  -> ATE
+  -> AE
+  -> A
+
+Reduction path for MACERATER:
+  -> MACERATER
+  -> MACERATE
+  -> ACERATE
+  -> CERATE
+  -> CRATE
+  -> RATE
+  -> ATE
+  -> AE
+  -> A
+
+Reduction path for MACERATES:
+  -> MACERATES
+  -> MACERATE
+  -> ACERATE
+  -> CERATE
+  -> CRATE
+  -> RATE
+  -> ATE
+  -> AE
+  -> A
+
+Reduction path for HEADRINGS:
+  -> HEADRINGS
+  -> HEARINGS
+  -> EARINGS
+  -> EARING
+  -> ERING
+  -> RING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for SHOWRINGS:
+  -> SHOWRINGS
+  -> SHOWINGS
+  -> SOWINGS
+  -> SWINGS
+  -> WINGS
+  -> INGS
+  -> INS
+  -> IS
+  -> I
+
+Reduction path for COLLIDERS:
+  -> COLLIDERS
+  -> COLLIERS
+  -> COLLIES
+  -> COLIES
+  -> CLIES
+  -> LIES
+  -> LIS
+  -> IS
+  -> I
+
+Reduction path for ADWARDING:
+  -> ADWARDING
+  -> AWARDING
+  -> WARDING
+  -> WARING
+  -> WRING
+  -> RING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for COUPLINGS:
+  -> COUPLINGS
+  -> COUPLING
+  -> COUPING
+  -> OUPING
+  -> OPING
+  -> PING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for RAMILLIES:
+  -> RAMILLIES
+  -> RAILLIES
+  -> RALLIES
+  -> ALLIES
+  -> ALLIS
+  -> ALLS
+  -> ALS
+  -> AS
+  -> A
+
+Reduction path for SPINNIEST:
+  -> SPINNIEST
+  -> SPINIEST
+  -> PINIEST
+  -> PINIES
+  -> PINES
+  -> PIES
+  -> PIS
+  -> IS
+  -> I
+
+Reduction path for SPARKLERS:
+  -> SPARKLERS
+  -> SPARKERS
+  -> PARKERS
+  -> PARERS
+  -> PARRS
+  -> PARS
+  -> ARS
+  -> AS
+  -> A
+
+Reduction path for SPARKLETS:
+  -> SPARKLETS
+  -> SPARKLES
+  -> SPARKES
+  -> SPARES
+  -> PARES
+  -> ARES
+  -> ARS
+  -> AS
+  -> A
+
+Reduction path for SPARKLESS:
+  -> SPARKLESS
+  -> SPARKLES
+  -> SPARKES
+  -> SPARES
+  -> PARES
+  -> ARES
+  -> ARS
+  -> AS
+  -> A
+
+Reduction path for STOPPINGS:
+  -> STOPPINGS
+  -> TOPPINGS
+  -> TOPPING
+  -> TOPING
+  -> OPING
+  -> PING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for PLASHINGS:
+  -> PLASHINGS
+  -> LASHINGS
+  -> LASHING
+  -> ASHING
+  -> AHING
+  -> HING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for CLAPPINGS:
+  -> CLAPPINGS
+  -> CAPPINGS
+  -> CAPPING
+  -> CAPING
+  -> APING
+  -> PING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for SPARKLING:
+  -> SPARKLING
+  -> SPARLING
+  -> PARLING
+  -> PALING
+  -> PLING
+  -> LING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for LAYERINGS:
+  -> LAYERINGS
+  -> LAYERING
+  -> LAERING
+  -> LERING
+  -> ERING
+  -> RING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for SPARKLIER:
+  -> SPARKLIER
+  -> SPARKIER
+  -> PARKIER
+  -> PARKER
+  -> PARER
+  -> PARR
+  -> PAR
+  -> AR
+  -> A
+
+Reduction path for SPARKLIES:
+  -> SPARKLIES
+  -> SPARKIES
+  -> PARKIES
+  -> PARIES
+  -> PRIES
+  -> PIES
+  -> PIS
+  -> IS
+  -> I
+
+Reduction path for TIDDLIEST:
+  -> TIDDLIEST
+  -> TIDDIEST
+  -> TIDIEST
+  -> TIDIES
+  -> TIDES
+  -> IDES
+  -> IDS
+  -> IS
+  -> I
+
+Reduction path for SPRANGLED:
+  -> SPRANGLED
+  -> SPANGLED
+  -> SPANGED
+  -> PANGED
+  -> PAGED
+  -> AGED
+  -> AGE
+  -> AE
+  -> A
+
+Reduction path for PRINCESSE:
+  -> PRINCESSE
+  -> PRINCESS
+  -> PRINCES
+  -> PRICES
+  -> PRIES
+  -> PIES
+  -> PIS
+  -> IS
+  -> I
+
+Reduction path for HAIRWINGS:
+  -> HAIRWINGS
+  -> HAIRWING
+  -> HAIRING
+  -> AIRING
+  -> IRING
+  -> RING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for PINNACLES:
+  -> PINNACLES
+  -> PINNACES
+  -> PINNACE
+  -> PINNAE
+  -> PINNA
+  -> PINA
+  -> PIA
+  -> PA
+  -> A
+
+Reduction path for PINNACLED:
+  -> PINNACLED
+  -> PINNACLE
+  -> PINNACE
+  -> PINNAE
+  -> PINNA
+  -> PINA
+  -> PIA
+  -> PA
+  -> A
+
+Reduction path for SAIBLINGS:
+  -> SAIBLINGS
+  -> SIBLINGS
+  -> SIBLING
+  -> SILING
+  -> SLING
+  -> LING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for BYLANDERS:
+  -> BYLANDERS
+  -> BYLANDER
+  -> BLANDER
+  -> LANDER
+  -> LADER
+  -> LAER
+  -> LAR
+  -> AR
+  -> A
+
+Reduction path for TWANGIEST:
+  -> TWANGIEST
+  -> TANGIEST
+  -> TANGIES
+  -> TANGIS
+  -> TANGS
+  -> TAGS
+  -> AGS
+  -> AS
+  -> A
+
+Reduction path for BRAGGINGS:
+  -> BRAGGINGS
+  -> RAGGINGS
+  -> RAGINGS
+  -> AGINGS
+  -> GINGS
+  -> INGS
+  -> INS
+  -> IS
+  -> I
+
+Reduction path for KHALIFATE:
+  -> KHALIFATE
+  -> KHALIFAT
+  -> KHALIFA
+  -> KHALIF
+  -> KALIF
+  -> ALIF
+  -> ALF
+  -> AL
+  -> A
+
+Reduction path for KHALIFATS:
+  -> KHALIFATS
+  -> KHALIFAS
+  -> KHALIFS
+  -> KALIFS
+  -> ALIFS
+  -> ALFS
+  -> ALS
+  -> AS
+  -> A
+
+Reduction path for KHALIFAHS:
+  -> KHALIFAHS
+  -> KHALIFAS
+  -> KHALIFS
+  -> KALIFS
+  -> ALIFS
+  -> ALFS
+  -> ALS
+  -> AS
+  -> A
+
+Reduction path for SNARFLING:
+  -> SNARFLING
+  -> SNARLING
+  -> SNARING
+  -> SARING
+  -> SARIN
+  -> SAIN
+  -> AIN
+  -> IN
+  -> I
+
+Reduction path for BRAMBLING:
+  -> BRAMBLING
+  -> RAMBLING
+  -> AMBLING
+  -> ABLING
+  -> BLING
+  -> LING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for ASPERSERS:
+  -> ASPERSERS
+  -> ASPERSES
+  -> ASPERSE
+  -> ASPERS
+  -> APERS
+  -> APES
+  -> APE
+  -> AE
+  -> A
+
+Reduction path for SCREAMERS:
+  -> SCREAMERS
+  -> CREAMERS
+  -> REAMERS
+  -> REAMES
+  -> REAMS
+  -> RAMS
+  -> RAS
+  -> AS
+  -> A
+
+Reduction path for STAMPEDOS:
+  -> STAMPEDOS
+  -> STAMPEDO
+  -> STAMPED
+  -> TAMPED
+  -> AMPED
+  -> APED
+  -> APE
+  -> AE
+  -> A
+
+Reduction path for SHAMBLING:
+  -> SHAMBLING
+  -> HAMBLING
+  -> AMBLING
+  -> ABLING
+  -> BLING
+  -> LING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for STAMPEDES:
+  -> STAMPEDES
+  -> STAMPEDE
+  -> STAMPED
+  -> TAMPED
+  -> AMPED
+  -> APED
+  -> APE
+  -> AE
+  -> A
+
+Reduction path for STAMPEDED:
+  -> STAMPEDED
+  -> STAMPEDE
+  -> STAMPED
+  -> TAMPED
+  -> AMPED
+  -> APED
+  -> APE
+  -> AE
+  -> A
+
+Reduction path for STAMPEDER:
+  -> STAMPEDER
+  -> STAMPEDE
+  -> STAMPED
+  -> TAMPED
+  -> AMPED
+  -> APED
+  -> APE
+  -> AE
+  -> A
+
+Reduction path for PINCHINGS:
+  -> PINCHINGS
+  -> PINCHING
+  -> INCHING
+  -> ICHING
+  -> CHING
+  -> HING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for WREATHIER:
+  -> WREATHIER
+  -> WREATHER
+  -> WREATHE
+  -> WREATH
+  -> WRATH
+  -> RATH
+  -> RAH
+  -> AH
+  -> A
+
+Reduction path for DREARIEST:
+  -> DREARIEST
+  -> DREAREST
+  -> DEAREST
+  -> DEARES
+  -> DARES
+  -> ARES
+  -> ARS
+  -> AS
+  -> A
+
+Reduction path for SOLANDERS:
+  -> SOLANDERS
+  -> SLANDERS
+  -> LANDERS
+  -> LADERS
+  -> LAERS
+  -> LARS
+  -> ARS
+  -> AS
+  -> A
+
+Reduction path for STRATUSES:
+  -> STRATUSES
+  -> STATUSES
+  -> STATUES
+  -> STATES
+  -> TATES
+  -> ATES
+  -> ATS
+  -> AS
+  -> A
+
+Reduction path for BOARDINGS:
+  -> BOARDINGS
+  -> BOARDING
+  -> BARDING
+  -> BARING
+  -> BRING
+  -> RING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for SPALLINGS:
+  -> SPALLINGS
+  -> SPALLING
+  -> PALLING
+  -> PALING
+  -> PLING
+  -> LING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for FOLKSIEST:
+  -> FOLKSIEST
+  -> FOLKIEST
+  -> FOLKIES
+  -> FOLIES
+  -> FLIES
+  -> LIES
+  -> LIS
+  -> IS
+  -> I
+
+Reduction path for GALOPPING:
+  -> GALOPPING
+  -> GLOPPING
+  -> LOPPING
+  -> LOPING
+  -> OPING
+  -> PING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for MARCHESAS:
+  -> MARCHESAS
+  -> MARCHESA
+  -> MARCHES
+  -> ARCHES
+  -> ACHES
+  -> ACES
+  -> ACE
+  -> AE
+  -> A
+
+Reduction path for WREATHERS:
+  -> WREATHERS
+  -> WREATHES
+  -> WREATHS
+  -> WRATHS
+  -> RATHS
+  -> RAHS
+  -> AHS
+  -> AS
+  -> A
+
+Reduction path for SPEARINGS:
+  -> SPEARINGS
+  -> SEARINGS
+  -> EARINGS
+  -> EARING
+  -> ERING
+  -> RING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for PLANCHETS:
+  -> PLANCHETS
+  -> PLANCHES
+  -> LANCHES
+  -> LACHES
+  -> ACHES
+  -> ACES
+  -> ACE
+  -> AE
+  -> A
+
+Reduction path for GRUELINGS:
+  -> GRUELINGS
+  -> GRUELING
+  -> GRUEING
+  -> RUEING
+  -> RUING
+  -> RING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for DREARINGS:
+  -> DREARINGS
+  -> REARINGS
+  -> EARINGS
+  -> EARING
+  -> ERING
+  -> RING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for STORYINGS:
+  -> STORYINGS
+  -> STORYING
+  -> STORING
+  -> STRING
+  -> STING
+  -> TING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for PRELATESS:
+  -> PRELATESS
+  -> PRELATES
+  -> RELATES
+  -> ELATES
+  -> ELATE
+  -> LATE
+  -> ATE
+  -> AE
+  -> A
+
+Reduction path for SWEARIEST:
+  -> SWEARIEST
+  -> WEARIEST
+  -> WARIEST
+  -> WRIEST
+  -> WRIST
+  -> WIST
+  -> WIT
+  -> IT
+  -> I
+
+Reduction path for ISLANDERS:
+  -> ISLANDERS
+  -> SLANDERS
+  -> LANDERS
+  -> LADERS
+  -> LAERS
+  -> LARS
+  -> ARS
+  -> AS
+  -> A
+
+Reduction path for CONCREATE:
+  -> CONCREATE
+  -> COCREATE
+  -> OCREATE
+  -> CREATE
+  -> REATE
+  -> RATE
+  -> ATE
+  -> AE
+  -> A
+
+Reduction path for STREWINGS:
+  -> STREWINGS
+  -> STEWINGS
+  -> SEWINGS
+  -> SWINGS
+  -> WINGS
+  -> INGS
+  -> INS
+  -> IS
+  -> I
+
+Reduction path for PRELATIES:
+  -> PRELATIES
+  -> PRELATES
+  -> RELATES
+  -> ELATES
+  -> ELATE
+  -> LATE
+  -> ATE
+  -> AE
+  -> A
+
+Reduction path for SCOURINGS:
+  -> SCOURINGS
+  -> SOURINGS
+  -> SOURING
+  -> SURING
+  -> SUING
+  -> SING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for TOOTHINGS:
+  -> TOOTHINGS
+  -> TOOTHING
+  -> TOOTING
+  -> TOTING
+  -> TOING
+  -> TING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for CLINCHING:
+  -> CLINCHING
+  -> CINCHING
+  -> INCHING
+  -> ICHING
+  -> CHING
+  -> HING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for STROUTING:
+  -> STROUTING
+  -> TROUTING
+  -> TOUTING
+  -> TOTING
+  -> TOING
+  -> TING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for CRANKLING:
+  -> CRANKLING
+  -> RANKLING
+  -> RANKING
+  -> RAKING
+  -> AKING
+  -> KING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for SHTICKIER:
+  -> SHTICKIER
+  -> STICKIER
+  -> STICKER
+  -> SICKER
+  -> SIKER
+  -> SIKE
+  -> SIK
+  -> SI
+  -> I
+
+Reduction path for CRAUNCHES:
+  -> CRAUNCHES
+  -> RAUNCHES
+  -> RANCHES
+  -> RACHES
+  -> ACHES
+  -> ACES
+  -> ACE
+  -> AE
+  -> A
+
+Reduction path for CRAUNCHED:
+  -> CRAUNCHED
+  -> RAUNCHED
+  -> RANCHED
+  -> RANCED
+  -> RACED
+  -> ACED
+  -> ACE
+  -> AE
+  -> A
+
+Reduction path for SWEARINGS:
+  -> SWEARINGS
+  -> WEARINGS
+  -> EARINGS
+  -> EARING
+  -> ERING
+  -> RING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for CLASSISMS:
+  -> CLASSISMS
+  -> CLASSISM
+  -> CLASSIS
+  -> LASSIS
+  -> LASSI
+  -> LASS
+  -> ASS
+  -> AS
+  -> A
+
+Reduction path for CLASSISTS:
+  -> CLASSISTS
+  -> CLASSIST
+  -> CLASSIS
+  -> LASSIS
+  -> LASSI
+  -> LASS
+  -> ASS
+  -> AS
+  -> A
+
+Reduction path for CLEANSERS:
+  -> CLEANSERS
+  -> CLEANSES
+  -> CLEANSE
+  -> CLEANS
+  -> LEANS
+  -> EANS
+  -> ANS
+  -> AS
+  -> A
+
+Reduction path for FAINTIEST:
+  -> FAINTIEST
+  -> FAINTEST
+  -> FAINEST
+  -> FINEST
+  -> FIEST
+  -> FIST
+  -> FIT
+  -> IT
+  -> I
+
+Reduction path for SCRAPPIER:
+  -> SCRAPPIER
+  -> CRAPPIER
+  -> CRAPIER
+  -> RAPIER
+  -> RAPER
+  -> APER
+  -> APE
+  -> AE
+  -> A
+
+Reduction path for CLASSIEST:
+  -> CLASSIEST
+  -> CLASSIST
+  -> CLASSIS
+  -> LASSIS
+  -> LASSI
+  -> LASS
+  -> ASS
+  -> AS
+  -> A
+
+Reduction path for TRANCHETS:
+  -> TRANCHETS
+  -> TRANCHES
+  -> RANCHES
+  -> RACHES
+  -> ACHES
+  -> ACES
+  -> ACE
+  -> AE
+  -> A
+
+Reduction path for UNTWILLED:
+  -> UNTWILLED
+  -> UNTILLED
+  -> UNTILED
+  -> UNTILE
+  -> UTILE
+  -> TILE
+  -> TIE
+  -> TI
+  -> I
+
+Reduction path for SLATTERNS:
+  -> SLATTERNS
+  -> SLATTERS
+  -> LATTERS
+  -> LATTES
+  -> LATTE
+  -> LATE
+  -> ATE
+  -> AE
+  -> A
+
+Reduction path for CAPROATES:
+  -> CAPROATES
+  -> CAPRATES
+  -> CARATES
+  -> CRATES
+  -> RATES
+  -> ATES
+  -> ATS
+  -> AS
+  -> A
+
+Reduction path for POLLICIES:
+  -> POLLICIES
+  -> POLICIES
+  -> POLICES
+  -> POLIES
+  -> PLIES
+  -> LIES
+  -> LIS
+  -> IS
+  -> I
+
+Reduction path for SCRAPPING:
+  -> SCRAPPING
+  -> CRAPPING
+  -> RAPPING
+  -> RAPING
+  -> APING
+  -> PING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for COWRITERS:
+  -> COWRITERS
+  -> COWRITES
+  -> COWRIES
+  -> CORIES
+  -> CRIES
+  -> CRIS
+  -> CIS
+  -> IS
+  -> I
+
+Reduction path for CHAMPACAS:
+  -> CHAMPACAS
+  -> CHAMPACS
+  -> CHAMPAS
+  -> CHAMPS
+  -> CAMPS
+  -> AMPS
+  -> AMP
+  -> AM
+  -> A
+
+Reduction path for TWANGLERS:
+  -> TWANGLERS
+  -> WANGLERS
+  -> ANGLERS
+  -> ANGERS
+  -> AGERS
+  -> AGES
+  -> AGS
+  -> AS
+  -> A
+
+Reduction path for PREMAKING:
+  -> PREMAKING
+  -> REMAKING
+  -> REAKING
+  -> RAKING
+  -> AKING
+  -> KING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for BARRELING:
+  -> BARRELING
+  -> BARREING
+  -> BARRING
+  -> BARING
+  -> BRING
+  -> RING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for STINTIEST:
+  -> STINTIEST
+  -> TINTIEST
+  -> TINIEST
+  -> TINIES
+  -> TINES
+  -> TIES
+  -> TIS
+  -> IS
+  -> I
+
+Reduction path for PALLIDEST:
+  -> PALLIDEST
+  -> PALLIEST
+  -> PALIEST
+  -> PALEST
+  -> PALET
+  -> PALE
+  -> ALE
+  -> AE
+  -> A
+
+Reduction path for SNAPPIEST:
+  -> SNAPPIEST
+  -> NAPPIEST
+  -> NAPPIES
+  -> NAPPES
+  -> NAPES
+  -> APES
+  -> APE
+  -> AE
+  -> A
+
+Reduction path for DRAGGINGS:
+  -> DRAGGINGS
+  -> RAGGINGS
+  -> RAGINGS
+  -> AGINGS
+  -> GINGS
+  -> INGS
+  -> INS
+  -> IS
+  -> I
+
+Reduction path for SQUINCHES:
+  -> SQUINCHES
+  -> QUINCHES
+  -> QUINCES
+  -> QUINES
+  -> QUINS
+  -> QINS
+  -> INS
+  -> IS
+  -> I
+
+Reduction path for SQUINCHED:
+  -> SQUINCHED
+  -> QUINCHED
+  -> QUINCHE
+  -> QUINCE
+  -> QUINE
+  -> QUIN
+  -> QIN
+  -> IN
+  -> I
+
+Reduction path for COMPETING:
+  -> COMPETING
+  -> COMPTING
+  -> COMPING
+  -> COPING
+  -> OPING
+  -> PING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for GROUPINGS:
+  -> GROUPINGS
+  -> GROUPING
+  -> ROUPING
+  -> OUPING
+  -> OPING
+  -> PING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for LAAGERING:
+  -> LAAGERING
+  -> LAGERING
+  -> LAERING
+  -> LERING
+  -> ERING
+  -> RING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for BRASHIEST:
+  -> BRASHIEST
+  -> BRASHEST
+  -> RASHEST
+  -> RASHES
+  -> RASES
+  -> RASE
+  -> RAS
+  -> AS
+  -> A
+
+Reduction path for SEARCHERS:
+  -> SEARCHERS
+  -> SEARCHES
+  -> SEARCES
+  -> SEARCE
+  -> SEARE
+  -> SEAR
+  -> EAR
+  -> AR
+  -> A
+
+Reduction path for MACULATED:
+  -> MACULATED
+  -> MACULATE
+  -> MACULAE
+  -> MACULE
+  -> MACLE
+  -> MALE
+  -> ALE
+  -> AE
+  -> A
+
+Reduction path for MACULATES:
+  -> MACULATES
+  -> MACULATE
+  -> MACULAE
+  -> MACULE
+  -> MACLE
+  -> MALE
+  -> ALE
+  -> AE
+  -> A
+
+Reduction path for ESCALADED:
+  -> ESCALADED
+  -> ESCALADE
+  -> SCALADE
+  -> SALADE
+  -> SLADE
+  -> LADE
+  -> LAD
+  -> AD
+  -> A
+
+Reduction path for ESCALADES:
+  -> ESCALADES
+  -> SCALADES
+  -> SALADES
+  -> SLADES
+  -> LADES
+  -> LADS
+  -> ADS
+  -> AS
+  -> A
+
+Reduction path for ESCALADER:
+  -> ESCALADER
+  -> ESCALADE
+  -> SCALADE
+  -> SALADE
+  -> SLADE
+  -> LADE
+  -> LAD
+  -> AD
+  -> A
+
+Reduction path for FRECKLING:
+  -> FRECKLING
+  -> RECKLING
+  -> RECKING
+  -> REKING
+  -> EKING
+  -> KING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for WHITSTERS:
+  -> WHITSTERS
+  -> WHITTERS
+  -> WHITTER
+  -> WHITER
+  -> WHITE
+  -> WITE
+  -> WIT
+  -> IT
+  -> I
+
+Reduction path for GLAMMIEST:
+  -> GLAMMIEST
+  -> GAMMIEST
+  -> GAMIEST
+  -> GAMEST
+  -> GAMES
+  -> AMES
+  -> AME
+  -> AE
+  -> A
+
+Reduction path for BARRELLED:
+  -> BARRELLED
+  -> BARRELED
+  -> BARREED
+  -> BARRED
+  -> BARED
+  -> ARED
+  -> ARD
+  -> AD
+  -> A
+
+Reduction path for UNITISERS:
+  -> UNITISERS
+  -> UNITISES
+  -> UNITIES
+  -> UNITES
+  -> NITES
+  -> NIES
+  -> NIS
+  -> IS
+  -> I
+
+Reduction path for BROASTING:
+  -> BROASTING
+  -> ROASTING
+  -> ROSTING
+  -> ROSING
+  -> ROSIN
+  -> ROIN
+  -> RIN
+  -> IN
+  -> I
+
+Reduction path for SIDELINGS:
+  -> SIDELINGS
+  -> SIDELING
+  -> SIDLING
+  -> SILING
+  -> SLING
+  -> LING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for LAWYERING:
+  -> LAWYERING
+  -> LAYERING
+  -> LAERING
+  -> LERING
+  -> ERING
+  -> RING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for GRABBLING:
+  -> GRABBLING
+  -> GABBLING
+  -> GABLING
+  -> ABLING
+  -> BLING
+  -> LING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for REWARMING:
+  -> REWARMING
+  -> REARMING
+  -> REARING
+  -> EARING
+  -> ERING
+  -> RING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for SHMEARING:
+  -> SHMEARING
+  -> SMEARING
+  -> MEARING
+  -> EARING
+  -> ERING
+  -> RING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for ASPORTING:
+  -> ASPORTING
+  -> SPORTING
+  -> SPORING
+  -> SPRING
+  -> SPRIG
+  -> PRIG
+  -> PIG
+  -> PI
+  -> I
+
+Reduction path for RETCHINGS:
+  -> RETCHINGS
+  -> ETCHINGS
+  -> ETCHING
+  -> ECHING
+  -> CHING
+  -> HING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for BRANCHERS:
+  -> BRANCHERS
+  -> RANCHERS
+  -> RANCHES
+  -> RACHES
+  -> ACHES
+  -> ACES
+  -> ACE
+  -> AE
+  -> A
+
+Reduction path for DARKLINGS:
+  -> DARKLINGS
+  -> DARKLING
+  -> DARKING
+  -> ARKING
+  -> AKING
+  -> KING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for SEARCHING:
+  -> SEARCHING
+  -> SEARCING
+  -> SEARING
+  -> EARING
+  -> ERING
+  -> RING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for EVACUATES:
+  -> EVACUATES
+  -> VACUATES
+  -> ACUATES
+  -> ACATES
+  -> CATES
+  -> ATES
+  -> ATS
+  -> AS
+  -> A
+
+Reduction path for DOUBTINGS:
+  -> DOUBTINGS
+  -> DOUBTING
+  -> DOUTING
+  -> DOTING
+  -> DOING
+  -> DING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for QUARTERNS:
+  -> QUARTERNS
+  -> QUARTERS
+  -> QUARTES
+  -> QUATES
+  -> QUATS
+  -> QATS
+  -> ATS
+  -> AS
+  -> A
+
+Reduction path for PREACHERS:
+  -> PREACHERS
+  -> REACHERS
+  -> REACHES
+  -> RACHES
+  -> ACHES
+  -> ACES
+  -> ACE
+  -> AE
+  -> A
+
+Reduction path for QUARTETTS:
+  -> QUARTETTS
+  -> QUARTETS
+  -> QUARTES
+  -> QUATES
+  -> QUATS
+  -> QATS
+  -> ATS
+  -> AS
+  -> A
+
+Reduction path for QUARTETTO:
+  -> QUARTETTO
+  -> QUARTETT
+  -> QUARTET
+  -> QUARTE
+  -> QUATE
+  -> QUAT
+  -> QAT
+  -> AT
+  -> A
+
+Reduction path for QUARTETTI:
+  -> QUARTETTI
+  -> QUARTETT
+  -> QUARTET
+  -> QUARTE
+  -> QUATE
+  -> QUAT
+  -> QAT
+  -> AT
+  -> A
+
+Reduction path for QUARTETTE:
+  -> QUARTETTE
+  -> QUARTETT
+  -> QUARTET
+  -> QUARTE
+  -> QUATE
+  -> QUAT
+  -> QAT
+  -> AT
+  -> A
+
+Reduction path for SCARFINGS:
+  -> SCARFINGS
+  -> SCARFING
+  -> SCARING
+  -> SARING
+  -> SARIN
+  -> SAIN
+  -> AIN
+  -> IN
+  -> I
+
+Reduction path for GRUELLING:
+  -> GRUELLING
+  -> GRUELING
+  -> GRUEING
+  -> RUEING
+  -> RUING
+  -> RING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for STRAYINGS:
+  -> STRAYINGS
+  -> STRAYING
+  -> STAYING
+  -> STYING
+  -> TYING
+  -> TING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for STOPPLING:
+  -> STOPPLING
+  -> TOPPLING
+  -> TOPPING
+  -> TOPING
+  -> OPING
+  -> PING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for SHEILINGS:
+  -> SHEILINGS
+  -> SHEILING
+  -> SEILING
+  -> SILING
+  -> SLING
+  -> LING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for THWACKING:
+  -> THWACKING
+  -> THACKING
+  -> TACKING
+  -> TAKING
+  -> AKING
+  -> KING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for ISOLATING:
+  -> ISOLATING
+  -> SOLATING
+  -> SLATING
+  -> SATING
+  -> STING
+  -> TING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for PRANKINGS:
+  -> PRANKINGS
+  -> RANKINGS
+  -> RAKINGS
+  -> RAKING
+  -> AKING
+  -> KING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for AGONISTES:
+  -> AGONISTES
+  -> AGONISES
+  -> AGNISES
+  -> ANISES
+  -> ANISE
+  -> ANIS
+  -> NIS
+  -> IS
+  -> I
+
+Reduction path for GRAFTINGS:
+  -> GRAFTINGS
+  -> GRATINGS
+  -> GRATINS
+  -> GRAINS
+  -> RAINS
+  -> AINS
+  -> INS
+  -> IS
+  -> I
+
+Reduction path for POLICIERS:
+  -> POLICIERS
+  -> POLICERS
+  -> POLICES
+  -> POLIES
+  -> PLIES
+  -> LIES
+  -> LIS
+  -> IS
+  -> I
+
+Reduction path for DEFRAYING:
+  -> DEFRAYING
+  -> DERAYING
+  -> DRAYING
+  -> DRYING
+  -> DYING
+  -> DING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for DROWNINGS:
+  -> DROWNINGS
+  -> DROWNING
+  -> DOWNING
+  -> OWNING
+  -> OWING
+  -> WING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for SCRAPPERS:
+  -> SCRAPPERS
+  -> CRAPPERS
+  -> RAPPERS
+  -> RAPERS
+  -> APERS
+  -> APES
+  -> APE
+  -> AE
+  -> A
+
+Reduction path for BASTILLES:
+  -> BASTILLES
+  -> BASTILES
+  -> BASTLES
+  -> BASTES
+  -> BATES
+  -> ATES
+  -> ATS
+  -> AS
+  -> A
+
+Reduction path for DEHAIRING:
+  -> DEHAIRING
+  -> DEAIRING
+  -> DEARING
+  -> EARING
+  -> ERING
+  -> RING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for WRANGLERS:
+  -> WRANGLERS
+  -> WANGLERS
+  -> ANGLERS
+  -> ANGERS
+  -> AGERS
+  -> AGES
+  -> AGS
+  -> AS
+  -> A
+
+Reduction path for BELIEVERS:
+  -> BELIEVERS
+  -> BELIEVES
+  -> BELIEVE
+  -> BELIVE
+  -> BLIVE
+  -> LIVE
+  -> LIE
+  -> LI
+  -> I
+
+Reduction path for PRANCKING:
+  -> PRANCKING
+  -> PRANKING
+  -> RANKING
+  -> RAKING
+  -> AKING
+  -> KING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for ATTORNING:
+  -> ATTORNING
+  -> ATTONING
+  -> ATONING
+  -> TONING
+  -> TOING
+  -> TING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for WRANGLING:
+  -> WRANGLING
+  -> WRANGING
+  -> RANGING
+  -> RAGING
+  -> AGING
+  -> GING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for TABULATED:
+  -> TABULATED
+  -> TABULATE
+  -> TABULAE
+  -> TABULA
+  -> TABLA
+  -> TALA
+  -> ALA
+  -> LA
+  -> A
+
+Reduction path for TABULATES:
+  -> TABULATES
+  -> TABULATE
+  -> TABULAE
+  -> TABULA
+  -> TABLA
+  -> TALA
+  -> ALA
+  -> LA
+  -> A
+
+Reduction path for GRABBLERS:
+  -> GRABBLERS
+  -> GABBLERS
+  -> GABBLES
+  -> GABLES
+  -> ABLES
+  -> ALES
+  -> ALS
+  -> AS
+  -> A
+
+Reduction path for PILASTERS:
+  -> PILASTERS
+  -> PLASTERS
+  -> LASTERS
+  -> LASERS
+  -> LAERS
+  -> LARS
+  -> ARS
+  -> AS
+  -> A
+
+Reduction path for RETALLIES:
+  -> RETALLIES
+  -> REALLIES
+  -> RALLIES
+  -> ALLIES
+  -> ALLIS
+  -> ALLS
+  -> ALS
+  -> AS
+  -> A
+
+Reduction path for STROPPING:
+  -> STROPPING
+  -> STOPPING
+  -> TOPPING
+  -> TOPING
+  -> OPING
+  -> PING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for FLITTERNS:
+  -> FLITTERNS
+  -> FLITTERS
+  -> LITTERS
+  -> LITERS
+  -> LIERS
+  -> LIES
+  -> LIS
+  -> IS
+  -> I
+
+Reduction path for SCALPINGS:
+  -> SCALPINGS
+  -> SCALPING
+  -> SCAPING
+  -> CAPING
+  -> APING
+  -> PING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for STOCKINGS:
+  -> STOCKINGS
+  -> STOCKING
+  -> TOCKING
+  -> TOKING
+  -> TOING
+  -> TING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for WARBLIEST:
+  -> WARBLIEST
+  -> WARBIEST
+  -> WARIEST
+  -> WRIEST
+  -> WRIST
+  -> WIST
+  -> WIT
+  -> IT
+  -> I
+
+Reduction path for SWASHIEST:
+  -> SWASHIEST
+  -> WASHIEST
+  -> ASHIEST
+  -> SHIEST
+  -> SHIST
+  -> HIST
+  -> HIT
+  -> IT
+  -> I
+
+Reduction path for ALLAYINGS:
+  -> ALLAYINGS
+  -> ALLAYING
+  -> ALAYING
+  -> LAYING
+  -> LYING
+  -> LING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for LINGULATE:
+  -> LINGULATE
+  -> LINGULAE
+  -> LINGUAE
+  -> LINGUA
+  -> LINGA
+  -> LING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for FRAGGINGS:
+  -> FRAGGINGS
+  -> RAGGINGS
+  -> RAGINGS
+  -> AGINGS
+  -> GINGS
+  -> INGS
+  -> INS
+  -> IS
+  -> I
+
+Reduction path for MURRHINES:
+  -> MURRHINES
+  -> MURRINES
+  -> MURINES
+  -> URINES
+  -> RINES
+  -> RINS
+  -> INS
+  -> IS
+  -> I
+
+Reduction path for STRAYLING:
+  -> STRAYLING
+  -> STRAYING
+  -> STAYING
+  -> STYING
+  -> TYING
+  -> TING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for STOUNDING:
+  -> STOUNDING
+  -> STOUNING
+  -> STONING
+  -> TONING
+  -> TOING
+  -> TING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for DISCOVERS:
+  -> DISCOVERS
+  -> DISCOERS
+  -> DISCOES
+  -> DISCOS
+  -> DISCS
+  -> DISS
+  -> DIS
+  -> IS
+  -> I
+
+Reduction path for TEAZELLED:
+  -> TEAZELLED
+  -> TEAZELED
+  -> TEAZLED
+  -> TEAZED
+  -> TEAED
+  -> TAED
+  -> TAD
+  -> AD
+  -> A
+
+Reduction path for BALLSIEST:
+  -> BALLSIEST
+  -> BALLIEST
+  -> BALLIES
+  -> ALLIES
+  -> ALLIS
+  -> ALLS
+  -> ALS
+  -> AS
+  -> A
+
+Reduction path for SHALLOWED:
+  -> SHALLOWED
+  -> HALLOWED
+  -> HALLOED
+  -> HALOED
+  -> ALOED
+  -> ALOE
+  -> ALE
+  -> AE
+  -> A
+
+Reduction path for DEFLATERS:
+  -> DEFLATERS
+  -> DEFLATES
+  -> DELATES
+  -> ELATES
+  -> ELATE
+  -> LATE
+  -> ATE
+  -> AE
+  -> A
+
+Reduction path for COURTIERS:
+  -> COURTIERS
+  -> COURIERS
+  -> COURIES
+  -> CURIES
+  -> CRIES
+  -> CRIS
+  -> CIS
+  -> IS
+  -> I
+
+Reduction path for FLEECHING:
+  -> FLEECHING
+  -> LEECHING
+  -> EECHING
+  -> ECHING
+  -> CHING
+  -> HING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for PLEACHING:
+  -> PLEACHING
+  -> LEACHING
+  -> LECHING
+  -> ECHING
+  -> CHING
+  -> HING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for RETAKINGS:
+  -> RETAKINGS
+  -> RETAKING
+  -> REAKING
+  -> RAKING
+  -> AKING
+  -> KING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for DENTARIES:
+  -> DENTARIES
+  -> DENARIES
+  -> DEARIES
+  -> DEARES
+  -> DARES
+  -> ARES
+  -> ARS
+  -> AS
+  -> A
+
+Reduction path for BRAILLING:
+  -> BRAILLING
+  -> BRAILING
+  -> BAILING
+  -> BILING
+  -> BLING
+  -> LING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for MARINERAS:
+  -> MARINERAS
+  -> MARINERS
+  -> MARINES
+  -> MARIES
+  -> MARES
+  -> ARES
+  -> ARS
+  -> AS
+  -> A
+
+Reduction path for SNOOZLING:
+  -> SNOOZLING
+  -> SNOOLING
+  -> SOOLING
+  -> SOLING
+  -> SLING
+  -> LING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for TOTTERING:
+  -> TOTTERING
+  -> TOTTRING
+  -> TOTTING
+  -> TOTING
+  -> TOING
+  -> TING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for SWASHINGS:
+  -> SWASHINGS
+  -> WASHINGS
+  -> WASHING
+  -> ASHING
+  -> AHING
+  -> HING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for BLOOSMING:
+  -> BLOOSMING
+  -> BLOOMING
+  -> BOOMING
+  -> BOOING
+  -> BOING
+  -> BING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for REGIONALS:
+  -> REGIONALS
+  -> REGIONAL
+  -> REGINAL
+  -> REGNAL
+  -> REGAL
+  -> EGAL
+  -> GAL
+  -> AL
+  -> A
+
+Reduction path for SHIRRINGS:
+  -> SHIRRINGS
+  -> SHIRRING
+  -> SIRRING
+  -> SIRING
+  -> IRING
+  -> RING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for SMURFINGS:
+  -> SMURFINGS
+  -> SURFINGS
+  -> SURFING
+  -> SURING
+  -> SUING
+  -> SING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for PORTLIEST:
+  -> PORTLIEST
+  -> PORTIEST
+  -> PORIEST
+  -> PRIEST
+  -> PRIES
+  -> PIES
+  -> PIS
+  -> IS
+  -> I
+
+Reduction path for SOURCINGS:
+  -> SOURCINGS
+  -> SOURINGS
+  -> SOURING
+  -> SURING
+  -> SUING
+  -> SING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for SWITCHELS:
+  -> SWITCHELS
+  -> SWITCHES
+  -> WITCHES
+  -> WITHES
+  -> WITES
+  -> WITS
+  -> ITS
+  -> IS
+  -> I
+
+Reduction path for SWITCHERS:
+  -> SWITCHERS
+  -> SWITHERS
+  -> WITHERS
+  -> WITHES
+  -> WITES
+  -> WITS
+  -> ITS
+  -> IS
+  -> I
+
+Reduction path for THRASHERS:
+  -> THRASHERS
+  -> TRASHERS
+  -> RASHERS
+  -> RASERS
+  -> RASES
+  -> RASE
+  -> RAS
+  -> AS
+  -> A
+
+Reduction path for CANTICOYS:
+  -> CANTICOYS
+  -> CANTICOS
+  -> CANTICO
+  -> CANTIC
+  -> ANTIC
+  -> ANTI
+  -> ANI
+  -> AI
+  -> I
+
+Reduction path for GANGSTERS:
+  -> GANGSTERS
+  -> GAGSTERS
+  -> GASTERS
+  -> GATERS
+  -> GATES
+  -> ATES
+  -> ATS
+  -> AS
+  -> A
+
+Reduction path for SWILLINGS:
+  -> SWILLINGS
+  -> SWILINGS
+  -> SWILING
+  -> SILING
+  -> SLING
+  -> LING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for PRANKLING:
+  -> PRANKLING
+  -> RANKLING
+  -> RANKING
+  -> RAKING
+  -> AKING
+  -> KING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for GROWLINGS:
+  -> GROWLINGS
+  -> GROWINGS
+  -> ROWINGS
+  -> ROWING
+  -> OWING
+  -> WING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for THRASHING:
+  -> THRASHING
+  -> TRASHING
+  -> RASHING
+  -> ASHING
+  -> AHING
+  -> HING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for THRASHIER:
+  -> THRASHIER
+  -> TRASHIER
+  -> TRASHER
+  -> RASHER
+  -> RASER
+  -> RASE
+  -> RAS
+  -> AS
+  -> A
+
+Reduction path for RETACKING:
+  -> RETACKING
+  -> RETAKING
+  -> REAKING
+  -> RAKING
+  -> AKING
+  -> KING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for MILLINERY:
+  -> MILLINERY
+  -> MILLINER
+  -> MILLIER
+  -> MILLER
+  -> MILER
+  -> MILE
+  -> MIL
+  -> MI
+  -> I
+
+Reduction path for MILLINERS:
+  -> MILLINERS
+  -> MILLIERS
+  -> MILLERS
+  -> MILERS
+  -> MILES
+  -> MILS
+  -> MIS
+  -> IS
+  -> I
+
+Reduction path for SWITCHIER:
+  -> SWITCHIER
+  -> WITCHIER
+  -> WITHIER
+  -> WITHER
+  -> WITHE
+  -> WITE
+  -> WIT
+  -> IT
+  -> I
+
+Reduction path for SWITCHING:
+  -> SWITCHING
+  -> WITCHING
+  -> ITCHING
+  -> ICHING
+  -> CHING
+  -> HING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for SPITTINGS:
+  -> SPITTINGS
+  -> SITTINGS
+  -> SITINGS
+  -> STINGS
+  -> TINGS
+  -> INGS
+  -> INS
+  -> IS
+  -> I
+
+Reduction path for STRICKLED:
+  -> STRICKLED
+  -> TRICKLED
+  -> TICKLED
+  -> TICKED
+  -> TICED
+  -> TIED
+  -> TID
+  -> ID
+  -> I
+
+Reduction path for MALEFICES:
+  -> MALEFICES
+  -> MALEFICE
+  -> MALEFIC
+  -> MALEIC
+  -> MALIC
+  -> MALI
+  -> MAL
+  -> AL
+  -> A
+
+Reduction path for STAUNCHES:
+  -> STAUNCHES
+  -> STANCHES
+  -> STANCES
+  -> STANES
+  -> SANES
+  -> ANES
+  -> ANS
+  -> AS
+  -> A
+
+Reduction path for SPIRITOUS:
+  -> SPIRITOUS
+  -> SPIRITUS
+  -> SPIRITS
+  -> SPRITS
+  -> SPITS
+  -> PITS
+  -> ITS
+  -> IS
+  -> I
+
+Reduction path for PREACHING:
+  -> PREACHING
+  -> PEACHING
+  -> PECHING
+  -> ECHING
+  -> CHING
+  -> HING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for MITHERING:
+  -> MITHERING
+  -> MITERING
+  -> MITRING
+  -> MIRING
+  -> IRING
+  -> RING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for TITANISMS:
+  -> TITANISMS
+  -> TITANISM
+  -> TITANIS
+  -> TITANS
+  -> TIANS
+  -> TANS
+  -> ANS
+  -> AS
+  -> A
+
+Reduction path for CHAPELESS:
+  -> CHAPELESS
+  -> CHAPLESS
+  -> CAPLESS
+  -> CAPLES
+  -> CAPES
+  -> APES
+  -> APE
+  -> AE
+  -> A
+
+Reduction path for SKIRTINGS:
+  -> SKIRTINGS
+  -> SKIRTING
+  -> SKITING
+  -> SITING
+  -> STING
+  -> TING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for STARLINGS:
+  -> STARLINGS
+  -> STARINGS
+  -> STRINGS
+  -> STINGS
+  -> TINGS
+  -> INGS
+  -> INS
+  -> IS
+  -> I
+
+Reduction path for TWOCKINGS:
+  -> TWOCKINGS
+  -> TWOCKING
+  -> TOCKING
+  -> TOKING
+  -> TOING
+  -> TING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for SHOPPINGS:
+  -> SHOPPINGS
+  -> HOPPINGS
+  -> HOPPING
+  -> HOPING
+  -> OPING
+  -> PING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for WARBLINGS:
+  -> WARBLINGS
+  -> WARLINGS
+  -> WARLING
+  -> WARING
+  -> WRING
+  -> RING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for SPIRITING:
+  -> SPIRITING
+  -> SPIRTING
+  -> SPITING
+  -> SITING
+  -> STING
+  -> TING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for PLANKINGS:
+  -> PLANKINGS
+  -> PLANKING
+  -> LANKING
+  -> LAKING
+  -> AKING
+  -> KING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for DUMPLINGS:
+  -> DUMPLINGS
+  -> DUMPINGS
+  -> DUPINGS
+  -> DUPING
+  -> DUING
+  -> DING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for BROACHERS:
+  -> BROACHERS
+  -> BROACHES
+  -> ROACHES
+  -> RACHES
+  -> ACHES
+  -> ACES
+  -> ACE
+  -> AE
+  -> A
+
+Reduction path for GNASHINGS:
+  -> GNASHINGS
+  -> GNASHING
+  -> GASHING
+  -> ASHING
+  -> AHING
+  -> HING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for MANTELETS:
+  -> MANTELETS
+  -> MANTLETS
+  -> MANTLES
+  -> MANTES
+  -> ANTES
+  -> ATES
+  -> ATS
+  -> AS
+  -> A
+
+Reduction path for BARGUESTS:
+  -> BARGUESTS
+  -> BARGESTS
+  -> BARGEST
+  -> BAREST
+  -> BARES
+  -> ARES
+  -> ARS
+  -> AS
+  -> A
+
+Reduction path for TALLIATES:
+  -> TALLIATES
+  -> TALLITES
+  -> TALLIES
+  -> ALLIES
+  -> ALLIS
+  -> ALLS
+  -> ALS
+  -> AS
+  -> A
+
+Reduction path for CHYACKING:
+  -> CHYACKING
+  -> CHACKING
+  -> CACKING
+  -> CAKING
+  -> AKING
+  -> KING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for STRIATUMS:
+  -> STRIATUMS
+  -> STRATUMS
+  -> STRATUS
+  -> STATUS
+  -> TATUS
+  -> TAUS
+  -> TAS
+  -> AS
+  -> A
+
+Reduction path for STAMPINGS:
+  -> STAMPINGS
+  -> TAMPINGS
+  -> TAPINGS
+  -> TAPING
+  -> APING
+  -> PING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for FLETCHING:
+  -> FLETCHING
+  -> LETCHING
+  -> ETCHING
+  -> ECHING
+  -> CHING
+  -> HING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for CATCHINGS:
+  -> CATCHINGS
+  -> CATCHING
+  -> CACHING
+  -> ACHING
+  -> CHING
+  -> HING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for CRACKINGS:
+  -> CRACKINGS
+  -> RACKINGS
+  -> RAKINGS
+  -> RAKING
+  -> AKING
+  -> KING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for STIFLINGS:
+  -> STIFLINGS
+  -> STIFLING
+  -> STILING
+  -> SILING
+  -> SLING
+  -> LING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for PLEATHERS:
+  -> PLEATHERS
+  -> LEATHERS
+  -> LATHERS
+  -> LATHES
+  -> LATHS
+  -> LAHS
+  -> AHS
+  -> AS
+  -> A
+
+Reduction path for LAMBLINGS:
+  -> LAMBLINGS
+  -> AMBLINGS
+  -> ABLINGS
+  -> BLINGS
+  -> LINGS
+  -> INGS
+  -> INS
+  -> IS
+  -> I
+
+Reduction path for TRUCKINGS:
+  -> TRUCKINGS
+  -> TRUCKING
+  -> TRUCING
+  -> TRUING
+  -> RUING
+  -> RING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for STINGIEST:
+  -> STINGIEST
+  -> STINGIES
+  -> STINGES
+  -> TINGES
+  -> TIGES
+  -> TIES
+  -> TIS
+  -> IS
+  -> I
+
+Reduction path for PIERCINGS:
+  -> PIERCINGS
+  -> PIECINGS
+  -> PIEINGS
+  -> PIEING
+  -> PIING
+  -> PING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for CLAVIGERS:
+  -> CLAVIGERS
+  -> CLAVIERS
+  -> CAVIERS
+  -> CAVERS
+  -> AVERS
+  -> AVES
+  -> AVE
+  -> AE
+  -> A
+
+Reduction path for HANDFEEDS:
+  -> HANDFEEDS
+  -> HANDFEED
+  -> HANDFED
+  -> HANDED
+  -> HADED
+  -> HAED
+  -> HAD
+  -> AD
+  -> A
+
+Reduction path for TRACKBEDS:
+  -> TRACKBEDS
+  -> TRACKBED
+  -> TRACKED
+  -> RACKED
+  -> RAKED
+  -> AKED
+  -> AKE
+  -> AE
+  -> A
+
+Reduction path for WHERRYING:
+  -> WHERRYING
+  -> HERRYING
+  -> HERYING
+  -> HEYING
+  -> HYING
+  -> HING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for SPILLINGS:
+  -> SPILLINGS
+  -> PILLINGS
+  -> PILINGS
+  -> PLINGS
+  -> LINGS
+  -> INGS
+  -> INS
+  -> IS
+  -> I
+
+Reduction path for HEARTLING:
+  -> HEARTLING
+  -> HEARTING
+  -> HEARING
+  -> EARING
+  -> ERING
+  -> RING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for SNAPPINGS:
+  -> SNAPPINGS
+  -> SNAPPING
+  -> NAPPING
+  -> NAPING
+  -> APING
+  -> PING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for SPLASHERS:
+  -> SPLASHERS
+  -> PLASHERS
+  -> LASHERS
+  -> LASERS
+  -> LAERS
+  -> LARS
+  -> ARS
+  -> AS
+  -> A
+
+Reduction path for GRAPPLERS:
+  -> GRAPPLERS
+  -> GRAPPLES
+  -> GRAPLES
+  -> GRAPES
+  -> RAPES
+  -> APES
+  -> APE
+  -> AE
+  -> A
+
+Reduction path for TAILFLIES:
+  -> TAILFLIES
+  -> TAILLIES
+  -> TALLIES
+  -> ALLIES
+  -> ALLIS
+  -> ALLS
+  -> ALS
+  -> AS
+  -> A
+
+Reduction path for SPAWNINGS:
+  -> SPAWNINGS
+  -> SPAWNING
+  -> PAWNING
+  -> AWNING
+  -> AWING
+  -> WING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for SPLASHIER:
+  -> SPLASHIER
+  -> PLASHIER
+  -> PLASHER
+  -> LASHER
+  -> LASER
+  -> LAER
+  -> LAR
+  -> AR
+  -> A
+
+Reduction path for ODORIZERS:
+  -> ODORIZERS
+  -> ODORIZES
+  -> DORIZES
+  -> DORIES
+  -> DRIES
+  -> DIES
+  -> DIS
+  -> IS
+  -> I
+
+Reduction path for GRAUNCHED:
+  -> GRAUNCHED
+  -> RAUNCHED
+  -> RANCHED
+  -> RANCED
+  -> RACED
+  -> ACED
+  -> ACE
+  -> AE
+  -> A
+
+Reduction path for GRAUNCHES:
+  -> GRAUNCHES
+  -> RAUNCHES
+  -> RANCHES
+  -> RACHES
+  -> ACHES
+  -> ACES
+  -> ACE
+  -> AE
+  -> A
+
+Reduction path for SPLASHING:
+  -> SPLASHING
+  -> PLASHING
+  -> LASHING
+  -> ASHING
+  -> AHING
+  -> HING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for SPURLINGS:
+  -> SPURLINGS
+  -> PURLINGS
+  -> PULINGS
+  -> PLINGS
+  -> LINGS
+  -> INGS
+  -> INS
+  -> IS
+  -> I
+
+Reduction path for MEAGEREST:
+  -> MEAGEREST
+  -> MEAGREST
+  -> MEAGRES
+  -> MEARES
+  -> MARES
+  -> ARES
+  -> ARS
+  -> AS
+  -> A
+
+Reduction path for CHERRYING:
+  -> CHERRYING
+  -> HERRYING
+  -> HERYING
+  -> HEYING
+  -> HYING
+  -> HING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for PROWLINGS:
+  -> PROWLINGS
+  -> PROWLING
+  -> PROLING
+  -> POLING
+  -> PLING
+  -> LING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for ABRIDGERS:
+  -> ABRIDGERS
+  -> ABRIDGES
+  -> BRIDGES
+  -> RIDGES
+  -> RIDES
+  -> IDES
+  -> IDS
+  -> IS
+  -> I
+
+Reduction path for DESCRIBES:
+  -> DESCRIBES
+  -> ESCRIBES
+  -> SCRIBES
+  -> SCRIES
+  -> CRIES
+  -> CRIS
+  -> CIS
+  -> IS
+  -> I
+
+Reduction path for COMPUTING:
+  -> COMPUTING
+  -> COMPTING
+  -> COMPING
+  -> COPING
+  -> OPING
+  -> PING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for SPARRINGS:
+  -> SPARRINGS
+  -> SPARRING
+  -> SPARING
+  -> SARING
+  -> SARIN
+  -> SAIN
+  -> AIN
+  -> IN
+  -> I
+
+Reduction path for BREASTING:
+  -> BREASTING
+  -> BEASTING
+  -> BESTING
+  -> BETING
+  -> BEING
+  -> BING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for POLISHERS:
+  -> POLISHERS
+  -> POLISHES
+  -> POLISES
+  -> POISES
+  -> PISES
+  -> PIES
+  -> PIS
+  -> IS
+  -> I
+
+Reduction path for PATINATED:
+  -> PATINATED
+  -> PATINAED
+  -> PATINED
+  -> PAINED
+  -> PINED
+  -> PIED
+  -> PIE
+  -> PI
+  -> I
+
+Reduction path for PATINATES:
+  -> PATINATES
+  -> PATINATE
+  -> PATINAE
+  -> PATINE
+  -> PATIN
+  -> PAIN
+  -> AIN
+  -> IN
+  -> I
+
+Reduction path for CLAMPINGS:
+  -> CLAMPINGS
+  -> LAMPINGS
+  -> LAMPING
+  -> AMPING
+  -> APING
+  -> PING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for CENSURING:
+  -> CENSURING
+  -> ENSURING
+  -> ENURING
+  -> ENRING
+  -> ERING
+  -> RING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for UNLEARNED:
+  -> UNLEARNED
+  -> UNEARNED
+  -> UNEARED
+  -> NEARED
+  -> EARED
+  -> ARED
+  -> ARD
+  -> AD
+  -> A
+
+Reduction path for HIRSELING:
+  -> HIRSELING
+  -> HIRELING
+  -> HIRLING
+  -> HIRING
+  -> IRING
+  -> RING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for PAROTIDES:
+  -> PAROTIDES
+  -> PAROTIDS
+  -> PAROTIS
+  -> PARTIS
+  -> ARTIS
+  -> ARIS
+  -> AIS
+  -> IS
+  -> I
+
+Reduction path for BREASTFED:
+  -> BREASTFED
+  -> BREASTED
+  -> REASTED
+  -> EASTED
+  -> EASED
+  -> EASE
+  -> EAS
+  -> AS
+  -> A
+
+Reduction path for MALLEATES:
+  -> MALLEATES
+  -> MALEATES
+  -> MALATES
+  -> ALATES
+  -> ALATE
+  -> LATE
+  -> ATE
+  -> AE
+  -> A
+
+Reduction path for MALLEATED:
+  -> MALLEATED
+  -> MALLEATE
+  -> MALEATE
+  -> MALATE
+  -> ALATE
+  -> LATE
+  -> ATE
+  -> AE
+  -> A
+
+Reduction path for ACIERATES:
+  -> ACIERATES
+  -> ACIERATE
+  -> ACERATE
+  -> CERATE
+  -> CRATE
+  -> RATE
+  -> ATE
+  -> AE
+  -> A
+
+Reduction path for ACIERATED:
+  -> ACIERATED
+  -> ACERATED
+  -> CERATED
+  -> CRATED
+  -> RATED
+  -> RATE
+  -> ATE
+  -> AE
+  -> A
+
+Reduction path for SWADDLERS:
+  -> SWADDLERS
+  -> WADDLERS
+  -> WADDERS
+  -> WADERS
+  -> WADES
+  -> WAES
+  -> WAS
+  -> AS
+  -> A
+
+Reduction path for BLANCHERS:
+  -> BLANCHERS
+  -> BLANCHES
+  -> LANCHES
+  -> LACHES
+  -> ACHES
+  -> ACES
+  -> ACE
+  -> AE
+  -> A
+
+Reduction path for REMARKING:
+  -> REMARKING
+  -> REMAKING
+  -> REAKING
+  -> RAKING
+  -> AKING
+  -> KING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for TALLITHES:
+  -> TALLITHES
+  -> TALLITES
+  -> TALLIES
+  -> ALLIES
+  -> ALLIS
+  -> ALLS
+  -> ALS
+  -> AS
+  -> A
+
+Reduction path for MAGISTERS:
+  -> MAGISTERS
+  -> MAISTERS
+  -> MISTERS
+  -> MISERS
+  -> MISES
+  -> MISS
+  -> MIS
+  -> IS
+  -> I
+
+Reduction path for MAGISTERY:
+  -> MAGISTERY
+  -> MAGISTER
+  -> MAISTER
+  -> MISTER
+  -> MISER
+  -> MISE
+  -> MIS
+  -> IS
+  -> I
+
+Reduction path for SHWANPANS:
+  -> SHWANPANS
+  -> SWANPANS
+  -> SANPANS
+  -> SAPANS
+  -> SPANS
+  -> PANS
+  -> ANS
+  -> AS
+  -> A
+
+Reduction path for SALTINESS:
+  -> SALTINESS
+  -> SALTINES
+  -> SALINES
+  -> ALINES
+  -> LINES
+  -> LIES
+  -> LIS
+  -> IS
+  -> I
+
+Reduction path for REAWAKING:
+  -> REAWAKING
+  -> REWAKING
+  -> REAKING
+  -> RAKING
+  -> AKING
+  -> KING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for QUARTIERS:
+  -> QUARTIERS
+  -> QUARTERS
+  -> QUARTES
+  -> QUATES
+  -> QUATS
+  -> QATS
+  -> ATS
+  -> AS
+  -> A
+
+Reduction path for WAMBLINGS:
+  -> WAMBLINGS
+  -> AMBLINGS
+  -> ABLINGS
+  -> BLINGS
+  -> LINGS
+  -> INGS
+  -> INS
+  -> IS
+  -> I
+
+Reduction path for LAMISTERS:
+  -> LAMISTERS
+  -> LAMSTERS
+  -> LASTERS
+  -> LASERS
+  -> LAERS
+  -> LARS
+  -> ARS
+  -> AS
+  -> A
+
+Reduction path for DROPPINGS:
+  -> DROPPINGS
+  -> DOPPINGS
+  -> DOPINGS
+  -> DOINGS
+  -> DINGS
+  -> INGS
+  -> INS
+  -> IS
+  -> I
+
+Reduction path for SCHMEARED:
+  -> SCHMEARED
+  -> SHMEARED
+  -> SMEARED
+  -> SEARED
+  -> EARED
+  -> ARED
+  -> ARD
+  -> AD
+  -> A
+
+Reduction path for LAUREATED:
+  -> LAUREATED
+  -> LAUREATE
+  -> AUREATE
+  -> AURATE
+  -> URATE
+  -> RATE
+  -> ATE
+  -> AE
+  -> A
+
+Reduction path for LAUREATES:
+  -> LAUREATES
+  -> LAUREATE
+  -> AUREATE
+  -> AURATE
+  -> URATE
+  -> RATE
+  -> ATE
+  -> AE
+  -> A
+
+Reduction path for COEMPTING:
+  -> COEMPTING
+  -> COMPTING
+  -> COMPING
+  -> COPING
+  -> OPING
+  -> PING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for TREACHERS:
+  -> TREACHERS
+  -> REACHERS
+  -> REACHES
+  -> RACHES
+  -> ACHES
+  -> ACES
+  -> ACE
+  -> AE
+  -> A
+
+Reduction path for UPHANGING:
+  -> UPHANGING
+  -> PHANGING
+  -> PANGING
+  -> PAGING
+  -> AGING
+  -> GING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for HOUSELING:
+  -> HOUSELING
+  -> HOUSLING
+  -> HOUSING
+  -> HOSING
+  -> HOING
+  -> HING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for STARTINGS:
+  -> STARTINGS
+  -> STARINGS
+  -> STRINGS
+  -> STINGS
+  -> TINGS
+  -> INGS
+  -> INS
+  -> IS
+  -> I
+
+Reduction path for REMAILERS:
+  -> REMAILERS
+  -> EMAILERS
+  -> MAILERS
+  -> MILERS
+  -> MILES
+  -> MILS
+  -> MIS
+  -> IS
+  -> I
+
+Reduction path for LACERATES:
+  -> LACERATES
+  -> LACERATE
+  -> ACERATE
+  -> CERATE
+  -> CRATE
+  -> RATE
+  -> ATE
+  -> AE
+  -> A
+
+Reduction path for LACERATED:
+  -> LACERATED
+  -> ACERATED
+  -> CERATED
+  -> CRATED
+  -> RATED
+  -> RATE
+  -> ATE
+  -> AE
+  -> A
+
+Reduction path for REMERGING:
+  -> REMERGING
+  -> EMERGING
+  -> MERGING
+  -> MERING
+  -> ERING
+  -> RING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for FRILLINGS:
+  -> FRILLINGS
+  -> FILLINGS
+  -> FILINGS
+  -> FLINGS
+  -> LINGS
+  -> INGS
+  -> INS
+  -> IS
+  -> I
+
+Reduction path for BEASTINGS:
+  -> BEASTINGS
+  -> BEATINGS
+  -> BEATING
+  -> BETING
+  -> BEING
+  -> BING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for HOICKSING:
+  -> HOICKSING
+  -> HOICKING
+  -> HOCKING
+  -> HOKING
+  -> HOING
+  -> HING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for HOISTINGS:
+  -> HOISTINGS
+  -> HOSTINGS
+  -> HOSTING
+  -> HOSING
+  -> HOING
+  -> HING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for MOITHERED:
+  -> MOITHERED
+  -> MITHERED
+  -> MITERED
+  -> MITRED
+  -> MIRED
+  -> MIRE
+  -> MIR
+  -> MI
+  -> I
+
+Reduction path for TREADLERS:
+  -> TREADLERS
+  -> TREADERS
+  -> TRADERS
+  -> TRADES
+  -> TRADS
+  -> RADS
+  -> ADS
+  -> AS
+  -> A
+
+Reduction path for PEARLIEST:
+  -> PEARLIEST
+  -> PEARLIES
+  -> PARLIES
+  -> PARIES
+  -> PRIES
+  -> PIES
+  -> PIS
+  -> IS
+  -> I
+
+Reduction path for TASTEABLE:
+  -> TASTEABLE
+  -> TASTABLE
+  -> ASTABLE
+  -> STABLE
+  -> TABLE
+  -> ABLE
+  -> ALE
+  -> AE
+  -> A
+
+Reduction path for CAROUSING:
+  -> CAROUSING
+  -> AROUSING
+  -> ROUSING
+  -> ROSING
+  -> ROSIN
+  -> ROIN
+  -> RIN
+  -> IN
+  -> I
+
+Reduction path for BREATHERS:
+  -> BREATHERS
+  -> BREATHES
+  -> BREATHS
+  -> BEATHS
+  -> BATHS
+  -> BATS
+  -> ATS
+  -> AS
+  -> A
+
+Reduction path for TACKLINGS:
+  -> TACKLINGS
+  -> TACKINGS
+  -> TAKINGS
+  -> TAKINS
+  -> TAINS
+  -> AINS
+  -> INS
+  -> IS
+  -> I
+
+Reduction path for BARGHESTS:
+  -> BARGHESTS
+  -> BARGESTS
+  -> BARGEST
+  -> BAREST
+  -> BARES
+  -> ARES
+  -> ARS
+  -> AS
+  -> A
+
+Reduction path for TRUCKLING:
+  -> TRUCKLING
+  -> TRUCKING
+  -> TRUCING
+  -> TRUING
+  -> RUING
+  -> RING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for QUARTZIER:
+  -> QUARTZIER
+  -> QUARTIER
+  -> QUARTER
+  -> QUARTE
+  -> QUATE
+  -> QUAT
+  -> QAT
+  -> AT
+  -> A
+
+Reduction path for CRACKLIER:
+  -> CRACKLIER
+  -> CRACKIER
+  -> CRACKER
+  -> RACKER
+  -> ACKER
+  -> ACER
+  -> ACE
+  -> AE
+  -> A
+
+Reduction path for CRACKLING:
+  -> CRACKLING
+  -> CACKLING
+  -> CACKING
+  -> CAKING
+  -> AKING
+  -> KING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for SCARRINGS:
+  -> SCARRINGS
+  -> SCARRING
+  -> SCARING
+  -> SARING
+  -> SARIN
+  -> SAIN
+  -> AIN
+  -> IN
+  -> I
+
+Reduction path for ACANTHOUS:
+  -> ACANTHOUS
+  -> ACANTHUS
+  -> CANTHUS
+  -> CANTUS
+  -> CANTS
+  -> ANTS
+  -> ATS
+  -> AS
+  -> A
+
+Reduction path for FAINTNESS:
+  -> FAINTNESS
+  -> FAINNESS
+  -> FAINNES
+  -> FAINES
+  -> FINES
+  -> FINS
+  -> INS
+  -> IS
+  -> I
+
+Reduction path for STRANDERS:
+  -> STRANDERS
+  -> STANDERS
+  -> SANDERS
+  -> SANDER
+  -> SANER
+  -> SANE
+  -> ANE
+  -> AE
+  -> A
+
+Reduction path for SCRATCHES:
+  -> SCRATCHES
+  -> CRATCHES
+  -> RATCHES
+  -> RACHES
+  -> ACHES
+  -> ACES
+  -> ACE
+  -> AE
+  -> A
+
+Reduction path for STRINGERS:
+  -> STRINGERS
+  -> STINGERS
+  -> SINGERS
+  -> SINGES
+  -> SINES
+  -> SIES
+  -> SIS
+  -> IS
+  -> I
+
+Reduction path for SLATTINGS:
+  -> SLATTINGS
+  -> SLATINGS
+  -> SLATING
+  -> SATING
+  -> STING
+  -> TING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for SCARPAING:
+  -> SCARPAING
+  -> SCAPAING
+  -> SCAPING
+  -> CAPING
+  -> APING
+  -> PING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for LARGESSES:
+  -> LARGESSES
+  -> LARGESSE
+  -> LARGESS
+  -> LARGES
+  -> LARES
+  -> ARES
+  -> ARS
+  -> AS
+  -> A
+
+Reduction path for CAROUSERS:
+  -> CAROUSERS
+  -> AROUSERS
+  -> AROUSES
+  -> AROUSE
+  -> AROSE
+  -> ARSE
+  -> ARE
+  -> AE
+  -> A
+
+Reduction path for CAROUSELS:
+  -> CAROUSELS
+  -> CAROUSES
+  -> AROUSES
+  -> AROUSE
+  -> AROSE
+  -> ARSE
+  -> ARE
+  -> AE
+  -> A
+
+Reduction path for SKETCHING:
+  -> SKETCHING
+  -> KETCHING
+  -> ETCHING
+  -> ECHING
+  -> CHING
+  -> HING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for UPROLLING:
+  -> UPROLLING
+  -> PROLLING
+  -> POLLING
+  -> POLING
+  -> PLING
+  -> LING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for CARDINALS:
+  -> CARDINALS
+  -> CARDINAL
+  -> CARINAL
+  -> CARNAL
+  -> CANAL
+  -> ANAL
+  -> AAL
+  -> AL
+  -> A
+
+Reduction path for FLASHINGS:
+  -> FLASHINGS
+  -> LASHINGS
+  -> LASHING
+  -> ASHING
+  -> AHING
+  -> HING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for DUCKLINGS:
+  -> DUCKLINGS
+  -> DUCKINGS
+  -> DUCKING
+  -> DUKING
+  -> DUING
+  -> DING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for HEALTHIER:
+  -> HEALTHIER
+  -> HEATHIER
+  -> HEATHER
+  -> HEATER
+  -> HATER
+  -> HATE
+  -> ATE
+  -> AE
+  -> A
+
+Reduction path for BONUSINGS:
+  -> BONUSINGS
+  -> BONUSING
+  -> BOUSING
+  -> BUSING
+  -> USING
+  -> SING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for AFFEARING:
+  -> AFFEARING
+  -> AFEARING
+  -> FEARING
+  -> EARING
+  -> ERING
+  -> RING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for HOARDINGS:
+  -> HOARDINGS
+  -> HOARDING
+  -> HOARING
+  -> HOAING
+  -> HOING
+  -> HING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for GLASSINES:
+  -> GLASSINES
+  -> GLASSIES
+  -> LASSIES
+  -> LASSES
+  -> LASES
+  -> LASS
+  -> ASS
+  -> AS
+  -> A
+
+Reduction path for ROADSTERS:
+  -> ROADSTERS
+  -> ROASTERS
+  -> RASTERS
+  -> RATERS
+  -> RATES
+  -> ATES
+  -> ATS
+  -> AS
+  -> A
+
+Reduction path for FLASHIEST:
+  -> FLASHIEST
+  -> FLASHEST
+  -> FLASHES
+  -> LASHES
+  -> LASES
+  -> LASS
+  -> ASS
+  -> AS
+  -> A
+
+Reduction path for STRAMPING:
+  -> STRAMPING
+  -> TRAMPING
+  -> RAMPING
+  -> AMPING
+  -> APING
+  -> PING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for COCREATES:
+  -> COCREATES
+  -> COCREATE
+  -> OCREATE
+  -> CREATE
+  -> REATE
+  -> RATE
+  -> ATE
+  -> AE
+  -> A
+
+Reduction path for COCREATED:
+  -> COCREATED
+  -> COCREATE
+  -> OCREATE
+  -> CREATE
+  -> REATE
+  -> RATE
+  -> ATE
+  -> AE
+  -> A
+
+Reduction path for BREATHING:
+  -> BREATHING
+  -> BEATHING
+  -> BEATING
+  -> BETING
+  -> BEING
+  -> BING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for BREATHIER:
+  -> BREATHIER
+  -> BREATHER
+  -> BREATHE
+  -> BREATH
+  -> BEATH
+  -> EATH
+  -> EAT
+  -> AT
+  -> A
+
+Reduction path for DRAGGLING:
+  -> DRAGGLING
+  -> RAGGLING
+  -> RAGGING
+  -> RAGING
+  -> AGING
+  -> GING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for GARBLINGS:
+  -> GARBLINGS
+  -> GARBLING
+  -> GABLING
+  -> ABLING
+  -> BLING
+  -> LING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for STACKINGS:
+  -> STACKINGS
+  -> TACKINGS
+  -> TAKINGS
+  -> TAKINS
+  -> TAINS
+  -> AINS
+  -> INS
+  -> IS
+  -> I
+
+Reduction path for CHOPPINGS:
+  -> CHOPPINGS
+  -> HOPPINGS
+  -> HOPPING
+  -> HOPING
+  -> OPING
+  -> PING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for TONGUINGS:
+  -> TONGUINGS
+  -> TONGUING
+  -> TONGING
+  -> TONING
+  -> TOING
+  -> TING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for TROUTINGS:
+  -> TROUTINGS
+  -> TROUTING
+  -> TOUTING
+  -> TOTING
+  -> TOING
+  -> TING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for GHOSTINGS:
+  -> GHOSTINGS
+  -> HOSTINGS
+  -> HOSTING
+  -> HOSING
+  -> HOING
+  -> HING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for BREACHING:
+  -> BREACHING
+  -> BEACHING
+  -> BACHING
+  -> ACHING
+  -> CHING
+  -> HING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for GLASSIEST:
+  -> GLASSIEST
+  -> GLASSIES
+  -> LASSIES
+  -> LASSES
+  -> LASES
+  -> LASS
+  -> ASS
+  -> AS
+  -> A
+
+Reduction path for RABBITOHS:
+  -> RABBITOHS
+  -> RABBITOS
+  -> RABBITS
+  -> RABBIS
+  -> RABIS
+  -> RAIS
+  -> AIS
+  -> IS
+  -> I
+
+Reduction path for BREACHERS:
+  -> BREACHERS
+  -> REACHERS
+  -> REACHES
+  -> RACHES
+  -> ACHES
+  -> ACES
+  -> ACE
+  -> AE
+  -> A
+
+Reduction path for CANVASSES:
+  -> CANVASSES
+  -> CANVASES
+  -> CANVASS
+  -> CAVASS
+  -> CAVAS
+  -> AVAS
+  -> VAS
+  -> AS
+  -> A
+
+Reduction path for TRAPPINGS:
+  -> TRAPPINGS
+  -> RAPPINGS
+  -> RAPPING
+  -> RAPING
+  -> APING
+  -> PING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for SNARLINGS:
+  -> SNARLINGS
+  -> SNARINGS
+  -> SNARING
+  -> SARING
+  -> SARIN
+  -> SAIN
+  -> AIN
+  -> IN
+  -> I
+
+Reduction path for PREPASTED:
+  -> PREPASTED
+  -> REPASTED
+  -> REASTED
+  -> EASTED
+  -> EASED
+  -> EASE
+  -> EAS
+  -> AS
+  -> A
+
+Reduction path for PULPITEER:
+  -> PULPITEER
+  -> PULPITER
+  -> PULPIER
+  -> PULIER
+  -> PLIER
+  -> LIER
+  -> LIE
+  -> LI
+  -> I
+
+Reduction path for PULPITERS:
+  -> PULPITERS
+  -> PULPITER
+  -> PULPIER
+  -> PULIER
+  -> PLIER
+  -> LIER
+  -> LIE
+  -> LI
+  -> I
+
+Reduction path for CLEARWING:
+  -> CLEARWING
+  -> CLEARING
+  -> LEARING
+  -> EARING
+  -> ERING
+  -> RING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for UPREACHES:
+  -> UPREACHES
+  -> PREACHES
+  -> REACHES
+  -> RACHES
+  -> ACHES
+  -> ACES
+  -> ACE
+  -> AE
+  -> A
+
+Reduction path for PEARLINGS:
+  -> PEARLINGS
+  -> PEARLING
+  -> PARLING
+  -> PALING
+  -> PLING
+  -> LING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for UPREACHED:
+  -> UPREACHED
+  -> PREACHED
+  -> PEACHED
+  -> PEACED
+  -> PACED
+  -> ACED
+  -> ACE
+  -> AE
+  -> A
+
+Reduction path for SHEATHIER:
+  -> SHEATHIER
+  -> HEATHIER
+  -> HEATHER
+  -> HEATER
+  -> HATER
+  -> HATE
+  -> ATE
+  -> AE
+  -> A
+
+Reduction path for SPRATTLES:
+  -> SPRATTLES
+  -> PRATTLES
+  -> PATTLES
+  -> PATTES
+  -> PATES
+  -> ATES
+  -> ATS
+  -> AS
+  -> A
+
+Reduction path for SPRATTLED:
+  -> SPRATTLED
+  -> PRATTLED
+  -> RATTLED
+  -> RATTED
+  -> RATED
+  -> RATE
+  -> ATE
+  -> AE
+  -> A
+
+Reduction path for MANTILLAS:
+  -> MANTILLAS
+  -> MANILLAS
+  -> MANILAS
+  -> MANIAS
+  -> MANAS
+  -> ANAS
+  -> NAS
+  -> AS
+  -> A
+
+Reduction path for PREFACERS:
+  -> PREFACERS
+  -> PREFACES
+  -> PREACES
+  -> PEACES
+  -> PACES
+  -> ACES
+  -> ACE
+  -> AE
+  -> A
+
+Reduction path for WHITTLERS:
+  -> WHITTLERS
+  -> WHITTERS
+  -> WHITTER
+  -> WHITER
+  -> WHITE
+  -> WITE
+  -> WIT
+  -> IT
+  -> I
+
+Reduction path for CANVASERS:
+  -> CANVASERS
+  -> CANVASES
+  -> CANVASS
+  -> CAVASS
+  -> CAVAS
+  -> AVAS
+  -> VAS
+  -> AS
+  -> A
+
+Reduction path for FROSTINGS:
+  -> FROSTINGS
+  -> FROSTING
+  -> ROSTING
+  -> ROSING
+  -> ROSIN
+  -> ROIN
+  -> RIN
+  -> IN
+  -> I
+
+Reduction path for SWERVINGS:
+  -> SWERVINGS
+  -> SERVINGS
+  -> SERVING
+  -> SERING
+  -> ERING
+  -> RING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for SHEATHERS:
+  -> SHEATHERS
+  -> HEATHERS
+  -> HEATERS
+  -> HATERS
+  -> HATES
+  -> ATES
+  -> ATS
+  -> AS
+  -> A
+
+Reduction path for PERILLING:
+  -> PERILLING
+  -> PRILLING
+  -> PILLING
+  -> PILING
+  -> PLING
+  -> LING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for BEESTINGS:
+  -> BEESTINGS
+  -> BEESTING
+  -> BESTING
+  -> BETING
+  -> BEING
+  -> BING
+  -> ING
+  -> IN
+  -> I
+
+Reduction path for CAIRNIEST:
+  -> CAIRNIEST
+  -> CARNIEST
+  -> CARNIES
+  -> CARIES
+  -> CRIES
+  -> CRIS
+  -> CIS
+  -> IS
+  -> I
+
+Reduction path for PEARLITES:
+  -> PEARLITES
+  -> PERLITES
+  -> PELITES
+  -> ELITES
+  -> LITES
+  -> LIES
+  -> LIS
+  -> IS
+  -> I
+
+Reduction path for RELAPSERS:
+  -> RELAPSERS
+  -> RELAPSES
+  -> ELAPSES
+  -> LAPSES
+  -> APSES
+  -> APES
+  -> APE
+  -> AE
+  -> A
+
+ASPIRATED
+ESCARPING
+SHIFTINGS
+CREWMATES
+BLOODYING
+GRATINEES
+GRATINEED
+BLEACHERS
+BOWELLING
+BLEACHING
+LAMINATES
+LAMINATED
+CROWNINGS
+BRAUNCHES
+BRAUNCHED
+CHINCHING
+SMIRTINGS
+SWISHIEST
+BLANKINGS
+BLEATINGS
+PLAININGS
+SWARMINGS
+PRISSIEST
+TRAPESING
+STARTLERS
+WITCHIEST
+TRAMPINGS
+CABBALAHS
+SMITHYING
+COACHINGS
+TIRELINGS
+TRIPLITES
+WRECKINGS
+TRICKSILY
+FRICHTING
+SPRAYINGS
+BLOOMINGS
+WITCHINGS
+BRAWLINGS
+UPLINKING
+WHOPPINGS
+LAZURITES
+KVETCHING
+UNBEARDED
+STREAMERS
+SCRAWPING
+TROUTLING
+SPRITZERS
+TANGLIEST
+PREPAVING
+ORANGIEST
+STRINGIER
+CRUISIEST
+BRASSIERE
+STREAMBED
+REPLANTED
+BRASSIEST
+STRIPPERS
+STARTLING
+STARTLIER
+BEARDIEST
+SILENCERS
+STREAMIER
+COACHIEST
+STREAMING
+FRACTURES
+RECAMIERS
+RAMBLINGS
+SHAWLINGS
+PLINKIEST
+SPANKINGS
+PERCHINGS
+CLATCHING
+SANDIVERS
+CAPELLETS
+SPLITTING
+PLINKINGS
+ABROOKING
+LEGERINGS
+SPLITTERS
+GAMBLINGS
+GLAMPINGS
+SITTELLAS
+SHARPINGS
+STABLINGS
+ASTONYING
+MADRASAHS
+BREAKINGS
+CHAUNTERS
+ANORETICS
+SNATCHERS
+RHAPHIDES
+STRAPPING
+STRAPPIER
+SHOWERING
+TRAMPLERS
+TRAIPSING
+TRACKINGS
+SIRONISES
+BANDANNAS
+TRAMPLING
+STOOKINGS
+WASHINESS
+TROLLYING
+SPLATTING
+FROWSTING
+SPIDERING
+SPLATTERS
+PLANTAGES
+REFLOATED
+GRANDEURS
+SHINGLIER
+SHINGLERS
+SCRABBLED
+ROASTINGS
+SPARLINGS
+MADRASSAS
+MADRASSAH
+PITCHINGS
+PICKETERS
+FORESTAYS
+BRAINIEST
+ESTRAYING
+CLOWNINGS
+SWEATINGS
+SIRONIZES
+SCOURSING
+CLEARINGS
+SLASHINGS
+DISCUSSES
+SAUTEEING
+SPLATCHES
+ABOUNDING
+DEMERGING
+SECERNING
+PREWARMED
+BRUSHINGS
+SHAMEABLE
+PAROTOIDS
+SMITHINGS
+RANCHERAS
+RANCHEROS
+BATOONING
+UNITIZERS
+STRANGEST
+STRANGERS
+UNSTILLED
+SPRAINING
+SMALTINES
+INSOLATES
+INSOLATED
+HOUSLINGS
+ANORECTIC
+SPANGLING
+DUELLISTS
+PRICKINGS
+ESPOUSING
+DROUKINGS
+MAGNETONS
+FRAGMENTS
+SPAIRGING
+CAVILLERS
+SPIRALING
+STRANGLED
+STRANGLES
+STRANGLER
+SPORTIEST
+PROVINCES
+PARCHEESI
+MAGNETRON
+HOCUSSING
+ESCALIERS
+SLAGGIEST
+PARCHESIS
+ANASTASES
+FLEERINGS
+STRAPPERS
+PRETAPING
+PEDALLING
+LEARNINGS
+SHARKINGS
+MALIGNERS
+TWITCHERS
+PORTIERED
+DECLARERS
+PORTIERES
+MALIGNING
+SHIRTINGS
+BLACKINGS
+ESTOPPING
+SCARPHING
+SPOOLINGS
+THREADERS
+SOLVATING
+MILLIEMES
+BILANDERS
+RECKLINGS
+THREADIER
+UNPRAISED
+UNPRAISES
+DEARLINGS
+SCRAGGILY
+CLASHINGS
+TWITCHIER
+TWITCHING
+BLUEWINGS
+CARROUSEL
+COHOUSING
+STITCHERS
+QUINTAINS
+REDBAITED
+PAINTINGS
+SQUINNIES
+CHIACKING
+PURFLINGS
+DROWNDING
+SWARTHIER
+BATCHINGS
+STICKLERS
+TROLLINGS
+SIWASHING
+SUBTITLES
+SUBTITLED
+STAGGIEST
+CAROLUSES
+LAUNCHERS
+CHILDBEDS
+BROWSINGS
+SCROWLING
+MISSPELLS
+CINCHINGS
+SCAMPINGS
+SCARPINGS
+NOMADISES
+SUPINATED
+SUPINATES
+SWARTIEST
+MISTERING
+MISTERIES
+REECHOING
+SCRAPINGS
+MISTERMED
+STARRIEST
+DAWDLINGS
+NOMADIZES
+TRIPPLERS
+BARDLINGS
+ASTARTING
+PRATTLERS
+GREEKINGS
+BLUSHINGS
+PINASTERS
+CAULKINGS
+TWATTLERS
+SMASHINGS
+TROTTINGS
+BLOCKINGS
+MAUVEINES
+WARSTLING
+SWANNIEST
+SHACKLERS
+RATTLINES
+FRACKINGS
+HIRELINGS
+PLANKTERS
+MINISTERS
+GAMBOLLED
+PARISHENS
+CHORUSING
+PRICKLING
+PRICKLIER
+SPARKIEST
+PHONEYING
+BATTELLED
+BONUSSING
+GAMBOLING
+USURPINGS
+ROSETTING
+DEPRIVERS
+HEATHENRY
+STARRINGS
+YEARNINGS
+SNAGGIEST
+CROAKINGS
+THRONGING
+TRIANGLED
+TRIANGLES
+LIVEYERES
+GABBLINGS
+STILTINGS
+FLAUNCHES
+FLAUNCHED
+STARVINGS
+KETAMINES
+RESTARTED
+DROLLINGS
+CARABINES
+WHACKIEST
+STALKINGS
+OUTRANGED
+OUTRANGES
+GARNISHES
+WHOOPINGS
+PRETASTED
+ASCARIDES
+THROWINGS
+ODORISERS
+KLATSCHES
+STROKINGS
+BREECHING
+CHAMOISES
+SPLINTERY
+SPLINTERS
+EMPERISED
+EMPERISES
+STILLINGS
+THANKINGS
+SHEARINGS
+STROLLING
+SCHOOLING
+SPIRLINGS
+BRATCHETS
+ACERBATED
+ACERBATES
+MANDIOCAS
+MANDIOCCA
+MAISTERED
+STANNATES
+CRANKIEST
+STRAYVING
+GAGGLINGS
+SPRINGLET
+SPRINGLES
+MARSHIEST
+STANCHEST
+STANCHERS
+STANCHELS
+CHAMISALS
+SCOOPINGS
+PLAISTERS
+GESTATING
+SPRINGIER
+WHIRLINGS
+SPRINGERS
+STEAMINGS
+TWADDLERS
+SCRANCHES
+SCRANCHED
+SHOOGLING
+STORMINGS
+PATELLATE
+CROPPINGS
+SCREAKING
+SCURRIERS
+SPEIRINGS
+SCOURGING
+ASTRINGED
+ASTRINGER
+SCROOPING
+DIVIDENDS
+KNAPPLING
+TWADDLIER
+PREARMING
+LETCHINGS
+BATTELERS
+BROWNINGS
+RESTATING
+GARFISHES
+BEAGLINGS
+THRILLERS
+STRAIKING
+LEDGERING
+LEACHINGS
+STIRRINGS
+WRAPPINGS
+BARYTONES
+CLANKINGS
+GUARISHES
+SHARNIEST
+BLONDINGS
+SHEARLING
+THRILLIER
+GAUNCHING
+STROWINGS
+QUINTETTI
+QUINTETTE
+QUINTETTS
+QUINTETTO
+ESTRANGED
+ESTRANGES
+ESTRANGER
+SPINNINGS
+SHAGGIEST
+UPRAISERS
+MACERATED
+MACERATER
+MACERATES
+HEADRINGS
+SHOWRINGS
+COLLIDERS
+ADWARDING
+COUPLINGS
+RAMILLIES
+SPINNIEST
+SPARKLERS
+SPARKLETS
+SPARKLESS
+STOPPINGS
+PLASHINGS
+CLAPPINGS
+SPARKLING
+LAYERINGS
+SPARKLIER
+SPARKLIES
+TIDDLIEST
+SPRANGLED
+PRINCESSE
+HAIRWINGS
+PINNACLES
+PINNACLED
+SAIBLINGS
+BYLANDERS
+TWANGIEST
+BRAGGINGS
+KHALIFATE
+KHALIFATS
+KHALIFAHS
+SNARFLING
+BRAMBLING
+ASPERSERS
+SCREAMERS
+STAMPEDOS
+SHAMBLING
+STAMPEDES
+STAMPEDED
+STAMPEDER
+PINCHINGS
+WREATHIER
+DREARIEST
+SOLANDERS
+STRATUSES
+BOARDINGS
+SPALLINGS
+FOLKSIEST
+GALOPPING
+MARCHESAS
+WREATHERS
+SPEARINGS
+PLANCHETS
+GRUELINGS
+DREARINGS
+STORYINGS
+PRELATESS
+SWEARIEST
+ISLANDERS
+CONCREATE
+STREWINGS
+PRELATIES
+SCOURINGS
+TOOTHINGS
+CLINCHING
+STROUTING
+CRANKLING
+SHTICKIER
+CRAUNCHES
+CRAUNCHED
+SWEARINGS
+CLASSISMS
+CLASSISTS
+CLEANSERS
+FAINTIEST
+SCRAPPIER
+CLASSIEST
+TRANCHETS
+UNTWILLED
+SLATTERNS
+CAPROATES
+POLLICIES
+SCRAPPING
+COWRITERS
+CHAMPACAS
+TWANGLERS
+PREMAKING
+BARRELING
+STINTIEST
+PALLIDEST
+SNAPPIEST
+DRAGGINGS
+SQUINCHES
+SQUINCHED
+COMPETING
+GROUPINGS
+LAAGERING
+BRASHIEST
+SEARCHERS
+MACULATED
+MACULATES
+ESCALADED
+ESCALADES
+ESCALADER
+FRECKLING
+WHITSTERS
+GLAMMIEST
+BARRELLED
+UNITISERS
+BROASTING
+SIDELINGS
+LAWYERING
+GRABBLING
+REWARMING
+SHMEARING
+ASPORTING
+RETCHINGS
+BRANCHERS
+DARKLINGS
+SEARCHING
+EVACUATES
+DOUBTINGS
+QUARTERNS
+PREACHERS
+QUARTETTS
+QUARTETTO
+QUARTETTI
+QUARTETTE
+SCARFINGS
+GRUELLING
+STRAYINGS
+STOPPLING
+SHEILINGS
+THWACKING
+ISOLATING
+PRANKINGS
+AGONISTES
+GRAFTINGS
+POLICIERS
+DEFRAYING
+DROWNINGS
+SCRAPPERS
+BASTILLES
+DEHAIRING
+WRANGLERS
+BELIEVERS
+PRANCKING
+ATTORNING
+WRANGLING
+TABULATED
+TABULATES
+GRABBLERS
+PILASTERS
+RETALLIES
+STROPPING
+FLITTERNS
+SCALPINGS
+STOCKINGS
+WARBLIEST
+SWASHIEST
+ALLAYINGS
+LINGULATE
+FRAGGINGS
+MURRHINES
+STRAYLING
+STOUNDING
+DISCOVERS
+TEAZELLED
+BALLSIEST
+SHALLOWED
+DEFLATERS
+COURTIERS
+FLEECHING
+PLEACHING
+RETAKINGS
+DENTARIES
+BRAILLING
+MARINERAS
+SNOOZLING
+TOTTERING
+SWASHINGS
+BLOOSMING
+REGIONALS
+SHIRRINGS
+SMURFINGS
+PORTLIEST
+SOURCINGS
+SWITCHELS
+SWITCHERS
+THRASHERS
+CANTICOYS
+GANGSTERS
+SWILLINGS
+PRANKLING
+GROWLINGS
+THRASHING
+THRASHIER
+RETACKING
+MILLINERY
+MILLINERS
+SWITCHIER
+SWITCHING
+SPITTINGS
+STRICKLED
+MALEFICES
+STAUNCHES
+SPIRITOUS
+PREACHING
+MITHERING
+TITANISMS
+CHAPELESS
+SKIRTINGS
+STARLINGS
+TWOCKINGS
+SHOPPINGS
+WARBLINGS
+SPIRITING
+PLANKINGS
+DUMPLINGS
+BROACHERS
+GNASHINGS
+MANTELETS
+BARGUESTS
+TALLIATES
+CHYACKING
+STRIATUMS
+STAMPINGS
+FLETCHING
+CATCHINGS
+CRACKINGS
+STIFLINGS
+PLEATHERS
+LAMBLINGS
+TRUCKINGS
+STINGIEST
+PIERCINGS
+CLAVIGERS
+HANDFEEDS
+TRACKBEDS
+WHERRYING
+SPILLINGS
+HEARTLING
+SNAPPINGS
+SPLASHERS
+GRAPPLERS
+TAILFLIES
+SPAWNINGS
+SPLASHIER
+ODORIZERS
+GRAUNCHED
+GRAUNCHES
+SPLASHING
+SPURLINGS
+MEAGEREST
+CHERRYING
+PROWLINGS
+ABRIDGERS
+DESCRIBES
+COMPUTING
+SPARRINGS
+BREASTING
+POLISHERS
+PATINATED
+PATINATES
+CLAMPINGS
+CENSURING
+UNLEARNED
+HIRSELING
+PAROTIDES
+BREASTFED
+MALLEATES
+MALLEATED
+ACIERATES
+ACIERATED
+SWADDLERS
+BLANCHERS
+REMARKING
+TALLITHES
+MAGISTERS
+MAGISTERY
+SHWANPANS
+SALTINESS
+REAWAKING
+QUARTIERS
+WAMBLINGS
+LAMISTERS
+DROPPINGS
+SCHMEARED
+LAUREATED
+LAUREATES
+COEMPTING
+TREACHERS
+UPHANGING
+HOUSELING
+STARTINGS
+REMAILERS
+LACERATES
+LACERATED
+REMERGING
+FRILLINGS
+BEASTINGS
+HOICKSING
+HOISTINGS
+MOITHERED
+TREADLERS
+PEARLIEST
+TASTEABLE
+CAROUSING
+BREATHERS
+TACKLINGS
+BARGHESTS
+TRUCKLING
+QUARTZIER
+CRACKLIER
+CRACKLING
+SCARRINGS
+ACANTHOUS
+FAINTNESS
+STRANDERS
+SCRATCHES
+STRINGERS
+SLATTINGS
+SCARPAING
+LARGESSES
+CAROUSERS
+CAROUSELS
+SKETCHING
+UPROLLING
+CARDINALS
+FLASHINGS
+DUCKLINGS
+HEALTHIER
+BONUSINGS
+AFFEARING
+HOARDINGS
+GLASSINES
+ROADSTERS
+FLASHIEST
+STRAMPING
+COCREATES
+COCREATED
+BREATHING
+BREATHIER
+DRAGGLING
+GARBLINGS
+STACKINGS
+CHOPPINGS
+TONGUINGS
+TROUTINGS
+GHOSTINGS
+BREACHING
+GLASSIEST
+RABBITOHS
+BREACHERS
+CANVASSES
+TRAPPINGS
+SNARLINGS
+PREPASTED
+PULPITEER
+PULPITERS
+CLEARWING
+UPREACHES
+PEARLINGS
+UPREACHED
+SHEATHIER
+SPRATTLES
+SPRATTLED
+MANTILLAS
+PREFACERS
+WHITTLERS
+CANVASERS
+FROSTINGS
+SWERVINGS
+SHEATHERS
+PERILLING
+BEESTINGS
+CAIRNIEST
+PEARLITES
+RELAPSERS
+
+Found 775 reducible 9-letter words in 140 ms
+
+Process finished with exit code 0
